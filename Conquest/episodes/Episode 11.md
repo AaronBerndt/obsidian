@@ -11,15 +11,15 @@ tags:
 ## Characters
 
 ## Strong Start
-
+The party is flying on the back of manticores and are attacked by the [[Helmaroc]] when flying over the ocean and are forced to land on a small island, but they lose [[Pox]] in the process.
 
 ## Scenes
 
-- The party is going to start traveling to the next location.
+- 
 
 ## Secrets and Clues
 
-- [[Thimble Skutch]] is studying the mating habits of the  [[Helmaroc]] a large bird that is native to the area who hunts owl bears and dinosaurs in the area.
+- 
 - 
 
 
