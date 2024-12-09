@@ -20,7 +20,12 @@ tags:
 
 - Rips in the fabric of reality cause spirts
 - The Far Realm leaked into the world and warped the Wode, causing the trees to weep creepy/sap that warped the animals and people that drank it.
-- A collective of Elves tried to fight back against the Far Realm called [[The Guardians]] who were fighting the [[Cult of Vairie]]
+- A collective of Elves tried to fight back against the Far Realm called [[The Guardians]] who were fighting the [[Cult of Vairie]] and the aberrations that were leaking into the world, they had special weapons that could kill them.
+- Some parts of the Wode are still preserved with powerful magic that is dwindling.
+- [[Vairie]] ascended to godhood and became the god of the Far Realm, but is trapped in the Far Realm.
+- 
+
+
 
 
 ## Fantastic Locations
@@ -30,17 +35,17 @@ tags:
 
 ## Notable NPCs
 
-- 
+- [[Mal'nastrix]]
 - 
 
 ## Monsters
 
-- A Golem made out of Food 
+- Sorrowsworn
 
 ## Treasure
 
 - 
-
+ nk
 ## Session Notes
 
 -
