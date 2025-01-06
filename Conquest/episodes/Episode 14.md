@@ -47,7 +47,7 @@ Psychic Crystals - The ship is power by psy crystals, but the engine is broken a
 Rooms 
 - Captain's Quarters
 - Crew Quarters
-- Cargo Hold
+- The Farms: A room that contained an area where the Gith could grow food during the travels. 
 - Engine Room: The room that allows the characters to power certain parts of the ship.
 - The Forge: A room for forging weapons and armor, the players can use this room to create new weapons and armor.
 - The Storage Room: A room that contains the psy crystals, the players can use this room to power the ship.
