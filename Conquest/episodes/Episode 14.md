@@ -41,18 +41,23 @@ The party explores the
 
 ## Dungeon Features
 
-Psychic Crystals - The ship is power by psy crystals, but the engine is broken and not able to power the ship all at once, the players can use the crystals to power the ship for a short amount of time, but only access certain parts of the ship at a time.
+Psychic Crystals - The ship and other equipment are power by psy crystals, but the engine is broken and not able to power the ship all at once, the players can use the crystals to power the ship for a short amount of time, but only access certain parts of the ship at a time.
+
+
+Unlocked Rooms at First
+- The Hanger
 
 
 Rooms 
 - Captain's Quarters
 - Crew Quarters
-- The Farms: A room that contained an area where the Gith could grow food during the travels. 
+- The Hanger: A room containing other smaller ships that are in various states of disrepair.
+- The Farms: A room that contained an area where the Gith could grow food during the travels, could contain some sort of plant monster and farming equipment.
 - Engine Room: The room that allows the characters to power certain parts of the ship.
 - The Forge: A room for forging weapons and armor, the players can use this room to create new weapons and armor.
 - The Storage Room: A room that contains the psy crystals, the players can use this room to power the ship.
 - The Nest: A room that contains the Gith eggs, the players can use this room to hatch the eggs and gain new allies.
-- The Deck 
+- The Deck: The top of the ship, with the cannons, the mast is broken and has fallen over onto 
 
 Dungeon tension Table 
 
