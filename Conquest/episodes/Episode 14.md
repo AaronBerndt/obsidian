@@ -21,10 +21,11 @@ The party explores the
 - The ships is haunted by the ghosts of the crew and the dragon who caused the ship to crash, they were caught in some sort of Far Realm anomaly.
 - [[Captain Le’mon Sour]] and his crew are possessed by the Githyanki ghosts, who are lead by Kith'rak Xikath.
 - Because of the anomaly, the ship is stuck in a time loop, and causes certain events to repeat themselves.
-- A offshoot of the  [[Cult of Syuul]] are looking into the ship and are trying to gain access to the ships (psy crystals storage), but they're having trouble getting past the dragon.
+- A offshoot of the  [[Cult of Syuul]] are looking into the ship and are trying to gain access to the ships (psy crystals storage), but they're having trouble getting past the dragon, they want to use these cells to power their experiments.
 - The [[New Dawn]] is a generational ship, meaning it was meant to sustain life for multiple generations, before reaching its destination and becoming a new Cheche . Some of the Gith eggs are still on the ship and lay dormant, these are protected by the Ydreslen who thinks they are its children.
 - The anomaly destroyed the ships Spelljamming Helm preventing the ship from leaving the planet.
 - The Great Expansion was a time when the Githyanki were expanding their empire and were looking for new worlds to conquer and settle, the New Dawn was one of the ships that was sent out to find new worlds to conquer.
+- Psy crystals are created from crystallized psionic energy, created from the thoughts of a long dead primordial such as in Tu'narath, the Githyanki capital city.
 
 ## Notable NPCs
 
