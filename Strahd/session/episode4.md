@@ -25,7 +25,7 @@ The party is exploring the Mines of the Sleeping Beast
 
 - [ ]  The Baron wants revenge on the Doctor, after the failed experiment that she performed to save his life causing to be on perm life support. He works when with different agents to help his plans.
 
-- [ ] Shardmind living crystals live in the center of the mines and have been living peacefully for centuries, they all have a connection to the sleeping beast.
+- [ ] Shardmind living crystals live in the center of the mines and have been living peacefully for centuries, they all have a connection to the sleeping beast, most of them are miners who have been transformed by the blood of the beast. There Leader is called Aether who was once the foreman of the mines who his name before was Rickle
 
 - [ ] Rumors of powerful creature called the Wendigo lives deep in the mines, and has rumor has it killed many miners.
 
