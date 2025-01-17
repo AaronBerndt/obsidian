@@ -59,7 +59,7 @@ Unlocked Rooms at First
 
 Rooms 
 - The Core
-- Living Quarters of the Miners of the Sleeping Beast
+- Living Quarters of the Miners of the Sleeping Beast 
 - The Collective of crystals
 - The Abandoned Mines
 - The Wendigo's Lair
