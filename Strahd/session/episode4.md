@@ -53,14 +53,16 @@ The party is exploring the Mines of the Sleeping Beast
 
 ## Dungeon Features
 
+
 Unlocked Rooms at First
 - The Entrance
 
 Rooms 
 - The Core
-- Living Quarters of the Miners
-- Former Living Quarters of the Miners
-- The Conclave
+- Living Quarters of the Miners of the Sleeping Beast
+- The Collective of crystals
+- The Abandoned Mines
+- The Wendigo's Lair
 
 
 "Monster noise"
