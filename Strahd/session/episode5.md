@@ -15,7 +15,7 @@ Start the battle vs the Scarabs that fell out of the rift.
 
 - Investigate the rift
 
-- Head deeper into the mines and meet the Shardmind, decided if they will take some of the life essence of the Beast to help them in their quest, or help the Shardmind destory 
+- Head deeper into the mines and meet the Shardmind, decided if they will take some of the life essence of the Beast to help them in their quest, or help the Shardmind deal with the cultists.
 
 ## Secrets and Clues
 
@@ -25,18 +25,29 @@ Start the battle vs the Scarabs that fell out of the rift.
 
 - [ ] [[Cognort]] was the darklord of Lamordia, before he was overthrown and replaced by Doctor Modernheim. He is creating a powerful new body for himself that will help in his revenge against the Doctor.
 
-- [ ] The rift is a portal to Har'Akir , showing that the thin veil between the planes is thinning.
+- [ ] The rift is a portal to Har'Akir, and
 
-- [ ] The [[Cult of of Osybus]] has been working both with the Baron and Cognort to help with their plans, because both parties are trying to recreate the Unbreakable heart.
+- [ ] The [[Cult of of Osybus]] has been working both with the Baron and Cognort to help with their plans, because both parties are trying to recreate the Unbreakable heart so they can become immortal. But the Cult plan is to steal the heart.
 
 - [ ] Elise actually was helped by the Shardmind who performed a ritual to make her be unable to be tracked by the Cult or the Doctor.
 
 - [ ] The Cult travel between the worlds using Amber Temples which appear in different locations amount of the planes, there is a long hallways with doors to different planes.
+
+- [ ] The Shardmind all are connected to the sleeping beast and it's dreams, if the beast is awakened it will destroy the world, the mining of the beast blood is causing the beast to awaken.
+
+
 ## Fantastic Locations
 
 ## Notable NPCs
 
 ## Monsters
 
+
+- Shardmind 
+
+- Cultists of Osybus and undead
+
 ## Treasure
 
+
+- Magic items that th
