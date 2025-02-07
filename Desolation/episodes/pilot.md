@@ -20,8 +20,10 @@ tags:
 ## Secrets and Clues
 - Du'Mastra is the largest city in the Desolation, it is a city of slavers and traders, it's ruled the by the Sultan of the Sands a Salamander named Zal'Kazzar, is also home to the Grand Bazaar, where the party is being taken to be sold.
 - Lingering necromantic magic resonates in to the Desolation, those who die who aren't buried properly can rise again as undead, towers made of bone that dot the landscape. 
-- There used to many more cities in the Desolation, but they have all been reclaimed by the wastes or sacked in bloody civil wars.
+- There used to many more cities in the Desolation, but they have all been reclaimed by the wastes or sacked in bloody civil wars. There are still small towns and outposts that dot the landscape, but they are few and far between.
 - The Blood Brothers, are a elite mercenary company that operates globally, they are known for their brutal efficiency and their loyalty to the highest bidder.
+- Frarg Halfnoise is orc slaver who had been working hard to get out of slaving and start have others do the work for him, while he sits back and collects the profits.
+- Lavender is a Blood Brother, she was captured after Frarg jumped her crew when they were on a job in the Desolation. She is a skilled fighter and has been trying to escape since she was captured.
 
 
 
