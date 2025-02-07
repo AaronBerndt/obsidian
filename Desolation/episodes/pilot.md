@@ -24,6 +24,7 @@ tags:
 - The Blood Brothers, are a elite mercenary company that operates globally, they are known for their brutal efficiency and their loyalty to the highest bidder.
 - Frarg Halfnoise is orc slaver who had been working hard to get out of slaving and start have others do the work for him, while he sits back and collects the profits.
 - Lavender is a Blood Brother, she was captured after Frarg jumped her crew when they were on a job in the Desolation. She is a skilled fighter and has been trying to escape since she was captured.
+- Frarg has a "magical greatsword" that he got off of a dead crusader, who he tells everyone is was Justin the Just, one of the greatest paladins to ever live.
 
 
 
