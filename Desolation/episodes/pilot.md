@@ -16,6 +16,7 @@ tags:
 
 ## Scenes
 - The party is being dragged through the desert by a group of slavers.
+- They will have to try to escape from the slavers, and make their way to the nearest outpost which is a few days away.
 
 ## Secrets and Clues
 - Du'Mastra is the largest city in the Desolation, it is a city of slavers and traders, it's ruled the by the Sultan of the Sands a Salamander named Zal'Kazzar, is also home to the Grand Bazaar, where the party is being taken to be sold.
@@ -25,13 +26,15 @@ tags:
 - Frarg Halfnoise is orc slaver who had been working hard to get out of slaving and start have others do the work for him, while he sits back and collects the profits.
 - Lavender is a Blood Brother, she was captured after Frarg jumped her crew when they were on a job in the Desolation. She is a skilled fighter and has been trying to escape since she was captured.
 - Frarg has a "magical greatsword" that he got off of a dead crusader, who he tells everyone is was Justin the Just, one of the greatest paladins to ever live.
-
+- Crusaders have orders from the imperialum to reclaim the Desolation and bring it back into the fold of the empire, but it's a losing battle as the Desolation is a harsh and unforgiving place. They have multiple strongholds in the Desolation, but they are constantly under attack by the denizens of the wastes.
 
 
 ## Fantastic Locations
 - The Desolation
 
 ## Notable NPCs
+- Frarg Halfnoise
+- Lavender
 
 
 ## Monsters
