@@ -28,7 +28,8 @@ tags:
 - Lavender is a Blood Brother, she was captured after Frarg jumped her crew when they were on a job in the Desolation. She is a skilled fighter and has been trying to escape since she was captured.
 - Frarg has a "magical greatsword" that he got off of a dead crusader, who he tells everyone is was Justin the Just, one of the greatest paladins to ever live.
 - Crusaders have orders from the imperialum to reclaim the Desolation and bring it back into the fold of the empire, but it's a losing battle as the Desolation is a harsh and unforgiving place. They have multiple strongholds in the Desolation, but they are constantly under attack by the denizens of the wastes.
-- The Ras-Godai are an elite group of assassins, they only allow the best of the best to join their ranks, they eat the black lotus to gain their powers, but it also drives them mad. 
+- The Ras-Godai are an elite group of assassins, they only allow the best of the best to join their ranks, they eat the black lotus to gain their powers, but it also drives them mad.
+- Vampire Lords rules parts of the Desolation, and they take slaves as blood bags, they are known for their cruelty and their power.
 
 
 ## Fantastic Locations
