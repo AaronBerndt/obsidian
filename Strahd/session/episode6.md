@@ -10,6 +10,13 @@ tags: []
 
 The party starts are chilling at the Cheddar's house, when the GDA starts ringing and the case manager for the party calls and wants to know what happened in Lamordia. 
 
+## Scenes
+
+
+## Secrets and Clues
+
+
+
 
 ## Scenes
 ## Secrets and Clues
@@ -28,6 +35,7 @@ The party starts are chilling at the Cheddar's house, when the GDA starts ringin
 - Cheddar the mouse
 - Mrs. Cheddar the mouse
 - Ted the Mage
+- The Wooks
 
 ## Monsters
 
@@ -35,7 +43,7 @@ The party starts are chilling at the Cheddar's house, when the GDA starts ringin
 ## Treasure
 
 
-
+=======
 ### Player Magical effects
 
 - Mapache: Lost their shadow, it went of on it's own adventure
