@@ -3,6 +3,7 @@
 ## Tick
  - Goblin who used to be a slave, mostly a blood bag.
  - Also was a spy in his past life.
+ - Hates vampires.
 
 ## Nico 
 - An Arcanine who grew up in the Desolation
@@ -18,12 +19,8 @@
 - A pixie 
 
 
-
-
-
-
 # Dead Characters
 
-## Rhubarb
-- Was a halfing farmer and follower of the new good
+## Rhubarb Bakerson
+- Was a halfling farmer and follower of the new good who grew up on the outskirts of the Desolation.
 - He died creating a destraction for the party to escape from the Undead
