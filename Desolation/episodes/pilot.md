@@ -1,7 +1,7 @@
 ---
-id: Episode 1
+id: Pilot
 aliases:
-  - Episode 1
+  - Pilot
   - Desolation
 tags:
   - episode
