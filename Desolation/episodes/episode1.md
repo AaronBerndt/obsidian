@@ -23,7 +23,7 @@ The start party in the interview process in Vanguard
 
 
 ## Fantastic Locations
-- The Desolation
+- The Town of Esker.
 
 ## Notable NPCs
 - Angel
