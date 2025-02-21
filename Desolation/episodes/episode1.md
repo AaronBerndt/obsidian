@@ -22,7 +22,7 @@ The start party in the interview process in Vanguard
 - Esker, once once a thriving town but now it's a ghost town, after the railroad project was abandoned, the town seems more built up than it should be, but it's mostly empty.
 - Tombs of long dead necromancers float above the Desolation, they are said to be filled with treasure and powerful artifacts, but they are also filled with traps and undead guardians.
 - Tobias the owner of the Nail and Spice was once part of the Ras-Godai, but fled, he slowly going mad from the black lotus. The Ras-Godai are an elite group of assassins, they only allow the best of the best to join their ranks, they eat the black lotus to gain their powers, but it also drives them mad.
-- The Dry death is magical and it's origin seems linked to the Necromantic Wars that happened in the Desolation.
+- The Dry death is magical and it's origin seems linked to the Necromantic Wars that happened in the Desolation, those who die from the Dry Death rise as desiccated ones.
 
 
 ## Fantastic Locations
