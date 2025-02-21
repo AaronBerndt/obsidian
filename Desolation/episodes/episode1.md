@@ -23,7 +23,9 @@ The start party in the interview process in Vanguard
 - Tombs of long dead necromancers float above the Desolation, they are said to be filled with treasure and powerful artifacts, but they are also filled with traps and undead guardians.
 - Tobias the owner of the Nail and Spice was once part of the Ras-Godai, but fled, he slowly going mad from the black lotus. The Ras-Godai are an elite group of assassins, they only allow the best of the best to join their ranks, they eat the black lotus to gain their powers, but it also drives them mad.
 - The Dry death is magical and it's origin seems linked to the Necromantic Wars that happened in the Desolation, those who die from the Dry Death rise as desiccated ones.
-- The Desolation used to be a lush and fertile land before the Necromantic Wars.
+- Esker is experiencing a strange plague called the Dry Death, it's a magical disease that causes the victim to slowly dry out and
+- Vampire Lords rules parts of the Desolation, and they take slaves as blood bags, they are known for their cruelty and their power.
+- Many banked on the railroad project and the imperialum expansion to bring wealth, but it failed due to the undead and the harsh environment of the Desolation.
 
 
 ## Fantastic Locations
@@ -32,6 +34,8 @@ The start party in the interview process in Vanguard
 ## Notable NPCs
 - Angel
 - Singer
+- 
+- 
 
 
 
