@@ -19,12 +19,18 @@ The party starts are chilling at the Cheddar's house, when the GDA starts ringin
 
 
 ## Scenes
+
+
+
 ## Secrets and Clues
 
 
 - [ ] The Cult travel between the worlds using Amber Temples which appear in different locations amount of the planes, there is a long hallways with doors to different planes.
 
-- [ ] All the worlds the party have come from are domains of dread, the guardians want to stop the worlds from colapsing into mists.
+
+- [ ] All the worlds the party have come from are domains of dread, the heads of the Guardians are members of The Dark Powers.
+
+- [ ] Hazlik is the new Dark Lord of Hazlan, and was once a Red Wizard of Thay, his cult all wear red robes to mimic him.
 
 
 
@@ -36,6 +42,7 @@ The party starts are chilling at the Cheddar's house, when the GDA starts ringin
 - Mrs. Cheddar the mouse
 - Ted the Mage
 - The Wooks
+- The Case Manager
 
 ## Monsters
 
