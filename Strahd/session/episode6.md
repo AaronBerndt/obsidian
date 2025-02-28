@@ -11,7 +11,8 @@ tags: []
 The party starts are chilling at the Cheddar's house, when the GDA starts ringing and the case manager for the party calls and wants to know what happened in Lamordia. 
 
 ## Scenes
-
+- The Party has the meeting with the Case Manager and set's up a location for the party to evacuate.
+- The party needs to adventure to the evacuation point, and shit happens along the way. 
 
 ## Secrets and Clues
 
@@ -36,6 +37,7 @@ The party starts are chilling at the Cheddar's house, when the GDA starts ringin
 -  [ ] Hazlik was dabbed in chaos magic and because of a magical accident teleported all of Thay to Hazlan killing millions who lived in , the ruins of Thay float around Hazlan.
 
 - [ ] The Father Tree is a strange god that all the Wooks worship, it's a tree that is the source of all the Wooks power.
+
 
 
 
