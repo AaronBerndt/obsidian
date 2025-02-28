@@ -27,10 +27,16 @@ The party starts are chilling at the Cheddar's house, when the GDA starts ringin
 
 - [ ] The Cult travel between the worlds using Amber Temples which appear in different locations amount of the planes, there is a long hallways with doors to different planes.
 
-
-- [ ] All the worlds the party have come from are domains of dread, the heads of the Guardians are members of The Dark Powers.
+- [ ] All the worlds the party have come from are domains of dread, the heads of the Guardians are members of The Dark Powers are using them to maintain power. 
 
 - [ ] Hazlik is the new Dark Lord of Hazlan, and was once a Red Wizard of Thay, his cult all wear red robes to mimic him.
+
+- [ ] The resistance is trying to oust Hazlik because he's been controlling the people of Hazlan ever since he arrived and took over.
+
+-  [ ] Hazlik was dabbed in chaos magic and because of a magical accident teleported all of Thay to Hazlan killing millions who lived in , the ruins of Thay float around Hazlan.
+
+- [ ] The Father Tree is a strange god that all the Wooks worship, it's a tree that is the source of all the Wooks power.
+
 
 
 
@@ -50,7 +56,6 @@ The party starts are chilling at the Cheddar's house, when the GDA starts ringin
 ## Treasure
 
 
-=======
 ### Player Magical effects
 
 - Mapache: Lost their shadow, it went of on it's own adventure
