@@ -11,9 +11,23 @@ tags:
 ## Characters
 
 ## Strong Start
-
+- The party talk to Simon
 ## Scenes
 
+- Talk to Simon
+
+
+
+Day 1
+- Investigate the Bakerson's farm and the missing family
+- Look into the Bittles
+
+
+Day 2 
+- Crusaders come to towns
+
+
+Day 3
 ## Secrets and Clues
 - [ ] Simon has a interest in the undeath and is looking into a way to bring his son back to life, who he keeps preserved in a glass coffin, filled with a strange liquid.
 - [ ] The Bakerson's are a family of halfling farmers who live on the outskirts of Esker, they are known for their pies and their hospitality. They have been missing for a few days now.
