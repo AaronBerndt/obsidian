@@ -1,3 +1,9 @@
+---
+id: characters
+aliases: []
+tags: []
+---
+
 # Active Characters
 
 ## Tick
@@ -18,6 +24,8 @@
 ## Hartie
 - A pixie 
 
+## Icy
+- A salamander mage who is a member of the Blood Brothers
 
 # Dead Characters
 
