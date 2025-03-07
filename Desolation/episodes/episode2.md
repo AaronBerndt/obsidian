@@ -22,7 +22,7 @@ tags:
 - [ ] The Railroad project was abandoned due to the undead and the harsh environment of the Desolation, but the project was also a cover for a secret project to find the tomb of Xerras.
 - [ ] The Bittles were a family who invested heavily in the railroad project, but they lost everything when the project was abandoned. They were also secretly funding the search for the tomb of Xerras.
 - [ ] Father Mayhew sent his acolyte to help other towns in the Desolation, unbeknownst to him, he is spreading the Dry Death though the potions he is giving out.
-
+- [ ] Fereen is bounty hunter looking for the "Bloody Blade" a murder who killed in the town of Crossings.
 
 
 ## Fantastic Locations
