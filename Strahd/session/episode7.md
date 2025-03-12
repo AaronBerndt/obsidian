@@ -24,8 +24,11 @@ tags: []
 
 ## Secrets and Clues
 
-- [ ] 
+- [ ] The Cult travel between the worlds using Amber Temples which appear in different locations amount of the planes, there is a long hallways with doors to different planes.
 
+- [ ] The resistance is trying to oust Hazlik because he's been controlling the people of Hazlan ever since he arrived and took over, and made the plain worse. 
+
+- [ ] All the worlds the party have come from are domains of dread, the heads of the Guardians are members of The Dark Powers are using them to maintain power. 
 
 
 
