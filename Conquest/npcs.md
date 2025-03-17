@@ -18,6 +18,8 @@ Captain Le’mon Sour - Was the captain of a crew, who is possessed by the Githy
 
 Veirai - A powerful Elven Sorcerer who is trying to return to the world.
 
+Cisirel - Was the second in command to the Cult of Veiari, she was turned into a Gorgon by Veirai and now lives in the forest.
+
 Ahsa - The leader of the Guardians who is trying to keep the Wode alive
 
 ## The Cult of Syuul
