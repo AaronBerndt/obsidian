@@ -1,0 +1,7 @@
+---
+id: npcs
+aliases: []
+tags: []
+---
+
+
