@@ -24,13 +24,12 @@ Start off with the Tea party with Cisirel
 
 - The Bone Eaters of Gobkey still live in depths, they broke off after the civil war and continue to practice the banned arts, they have lost all fur and are like naked mole rats. They wear bone armor and have a bone mask that they wear to hide their faces.
 
-- Cisirel cast a spell on herself to make her forget about her past, if the spell is broken she would become a monster again, also breaking the grove revealing all of her victims. The spell feeds on the life force of the victims that she collects to maintain the spell.
-
-- Cisirel was turned into a Gorgon by Veirai corr
+- Cisirel cast a spell on herself to make her forget about her past, if the spell is broken she would become a monster again, also breaking the grove revealing all of her victims. The spell feeds on the life force of the victims that she collects to maintain the spell, the spell isn't perfect part's of it fails breaking the illusion.
 
 
 ## Notable NPCs
 
+- Cisirel
 
 ## Monsters
 - Bone Eaters Gobkey's
