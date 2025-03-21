@@ -31,7 +31,7 @@ Day 3
 - [ ] The Bittles were a family who invested heavily in the railroad project, but they lost everything when the project was abandoned. They were also secretly funding the search for the tomb of Xerras.
 - [ ] Father Mayhew sent his acolyte to help other towns in the Desolation, unbeknownst to him, he is spreading the Dry Death though the potions he is giving out.
 - [ ] The Bakerson family have been a corner stone of Esker for generations, and have been providing baked goods for all festivals and events.
-- [ ] The Harvest Mother is a deity by old farmers but overtime her worship was outlawed by the Cult of The New God.
+- [ ] The Harvest Mother is a deity by old farmers but overtime her worship was outlawed by the Cult of The New God, her magic offered protection to those who worshiped her.
 
 ## Fantastic Locations
 - The Town of Esker.
