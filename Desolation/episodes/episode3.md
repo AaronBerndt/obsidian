@@ -32,6 +32,7 @@ Day 3
 - [ ] Father Mayhew sent his acolyte to help other towns in the Desolation, unbeknownst to him, he is spreading the Dry Death though the potions he is giving out.
 - [ ] The Bakerson family have been a corner stone of Esker for generations, and have been providing baked goods for all festivals and events.
 - [ ] The Harvest Mother is a deity by old farmers but overtime her worship was outlawed by the Cult of The New God, her magic offered protection to those who worshiped her.
+- [ ] The Bittles held secret meetings with their investors in the old mine, who were also members of the Cult, they would wear masks to hide their identities that would look like the ones the part has seen in the dreamscape. These parties were very hedonistic.
 
 ## Fantastic Locations
 - The Town of Esker.
