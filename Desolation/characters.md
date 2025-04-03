@@ -21,11 +21,15 @@ tags: []
 - An orc who used to work for Farg Halfnose, was good at math and counting.
 - Went to some sort of school for math and counting.
 
-## Hartie
-- A pixie 
-
 ## Icy
 - A salamander mage who is a member of the Blood Brothers
+
+
+# Characters who fled
+## Hartie
+- A pixie who helped the parties escape from Frarg Halfnoise, they left the party when they got to Vanguard
+
+
 
 # Dead Characters
 
