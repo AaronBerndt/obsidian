@@ -1,5 +1,5 @@
 ---
-id: desolation_episode3
+id: desolation_episode4
 aliases:
   - Desolation
 tags:
@@ -25,7 +25,7 @@ Day 3
 - [ ] Father Mayhew sent his acolyte to help other towns in the Desolation, unbeknownst to him, he is spreading the Dry Death though the potions he is giving out.
 - [ ] The Bittles held secret meetings with their investors in the old mine, who were also members of the Cult, they would wear masks to hide their identities that would look like the ones the part has seen in the dreamscape. These parties were very hedonistic.
 - [ ] Galena has lived in Esker for a long time, and she has been an escort and used to party with the Bittles, she became a vampire during one of these parties and has been hiding this from the townsfolk. 
-
+- [ ] The Bittles used to spread the Dry death with a special punch.
 ## Fantastic Locations
 - The Town of Esker.
 
