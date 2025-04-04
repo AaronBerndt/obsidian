@@ -27,7 +27,7 @@ The Rainmaker - A mysterious figure who can control the weather, he travels the 
 
 Angel - A clockwork who was a crusader, he lead a great crusade Vampires but he died in the process, his brain and remains were put into a clockwork body. The leader of the Iron Guard.
 
-Sir Maithius - A knight of the Iron Guard, he has been performing purges to prevent the spread of the Dry death.
+Sir Maithius Reems - A knight of the Iron Guard, he has been performing purges to prevent the spread of the Dry death. He loves smoking and drinking, but his body under the armor is long dead and rotted.
 
 Buts - Sir Maithus s squire, he is a coward and is always trying to get out of doing anything dangerous.
 
