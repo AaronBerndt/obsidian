@@ -40,7 +40,7 @@ Rose - A human member of the cult of the New God working for Father Mayhew
 Benjamin Bittle - A human member of the cult of the New God working for Father Mayhew, he cuts himself to feel closer to the New God, he's also a member of the Bittles family.
 Simon - A human alchemist in Esker, he's trying to bring his son back to life. He keeps his son in a glass coffin filled with a strange liquid, he trying to also find a cure for the Dry Death.
 Flick - A goblin who lives in Esker, he cheats at dice.
-Tobias - The owner of the Nail and Spice, he's slowly going mad from the black lotus, ex assassin.
+Tobias "The Scent of Death" - The owner of the Nail and Spice, he's a serial killer who collects the noses of his victims. He very knowledgeable about teas and firearms.
 Fereen - A Salamander bounty hunter for the Ras-Godail who is looking for Tobias
 Gwilherm - Is the Inn keep of the Two Strings Inn in Esker
 Bardin - The Dwarf blacksmith in Esker
