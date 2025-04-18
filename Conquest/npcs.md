@@ -42,6 +42,8 @@ Bobo - A Goblin bard who helped Frickner kill the Queen. Was the court jester of
 
 CarrotFinger - A Goblin who has a Carrot for a finger
 
+Zograt - A Goblin cleric of the Ostermark
+
 
 ## The Far Realm
 
