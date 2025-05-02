@@ -29,6 +29,8 @@ Day 4
 - [ ] Galena has lived in Esker for a long time, and she has been an escort and used to party with the Bittles, she became a vampire during one of these parties and has been hiding this from the townsfolk. 
 - [ ] The Bittles used to spread the Dry death with a special punch, Ben thinks it's the holy water.
 
+- [ ] Beatrice Bittle was obsessed with the idea of finding away to become immortal (because she was afraid of dying), so she used her families resources to look into it. She is now a ghost who haunts the Bittle estate, and she influncing her Great Grandson to continue her work. 
+
 
 
 ## Fantastic Locations
