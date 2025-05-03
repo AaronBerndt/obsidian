@@ -47,3 +47,5 @@ Bardin - The Dwarf blacksmith in Esker
 Edward - Was the town drunk of Esker, he died from the Dry Death and rose as a desiccated one.
 Galena - A vampire who lives in Esker.
 Bakerson Family - Were a family of bakers in Esker, they were killed by the Dry Death and rose as desiccated ones. 
+Ela - A apprentice human witch in Esker, her master was killed by the Dry Death.
+Gabirella - The runs the Library in Esker, she writes fantasy novels in her spare time.
