@@ -17,6 +17,8 @@ tags: []
 
 - They help release some of the prisoners to aid them
 
+- They find the body of Oonos 
+
 - They fight Gator
 
 ## Secrets and Clues
