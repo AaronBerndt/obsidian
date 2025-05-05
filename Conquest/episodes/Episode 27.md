@@ -9,15 +9,20 @@ tags: []
 ## Characters
 
 ## Strong Start
-- The party is exploring the prison controlled by the Lizardfolk
+- The party 
 
 ## Scenes
 
-- The party is exploring the prison controlled by the Lizardfolk
+- The party needs to call all their allies to help them fight Syuul
 
-- They help release some of the prisoners to aid them
-
-- They fight Gator
+Allies
+- The Druids
+- The Coral
+- Professor Skutch and his Manticores
+- The Lizardfolk
+- Fern and the Frog People
+- The Wode Elves
+- The Gobkey
 
 ## Secrets and Clues
 
