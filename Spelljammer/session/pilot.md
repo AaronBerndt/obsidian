@@ -16,6 +16,8 @@ tags: []
 ## Scenes
 
 ## Secrets and Clues
+- The Kobald pirates are working for a mysterious benefactor, to steal the cargo. (Icon roll)
+
 - 
 
 ## Fantastic Locations
