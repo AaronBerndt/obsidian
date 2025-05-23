@@ -9,20 +9,9 @@ tags: []
 ## Characters
 
 ## Strong Start
-- The party 
+- Follow where Lyla went after she fell down the void with the Goblin Necromancer
 
 ## Scenes
-
-- The party needs to call all their allies to help them fight Syuul
-
-Allies
-- The Druids
-- The Coral
-- Professor Skutch and his Manticores
-- The Lizardfolk
-- Fern and the Frog People
-- The Wode Elves
-- The Gobkey
 
 ## Secrets and Clues
 
