@@ -10,8 +10,11 @@ tags: []
 
 # Wildspace 
 
-Chester - The owner of The Slop Shop, a "spelljammer" stop that  exists on the edge of Wild Space.
+Gop - The owner of The Slop Shop, a "spelljammer" stop that  exists on the edge of Wild Space.
 
+
+# Scrap Space
+Gop - The plasmoid owner of The Slop Shop, a "spelljammer" stop that  exists on the edge of Wild Space.
 
 # The Kobold Pirates
 

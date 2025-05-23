@@ -23,6 +23,10 @@ tags: []
 
 - Some automations are still active and think they are still doing their job that they were programmed to do, some even have gained sentience but still enjoy doing their job.
 
+- A powerful elemental creatures is chained inside that volcano, forced to break down the junk into raw materials, and was captured by the "dead civilization" and wants to be free.
+
+- 
+
 ## Fantastic Locations
 
 ## Notable NPCs
