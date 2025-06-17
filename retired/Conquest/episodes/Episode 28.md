@@ -19,9 +19,9 @@ tags: []
     - Battle 5: The Goblin Skys
 
 ## Secrets and Clues
-- Syuul has powered up the mothership and is ready to take over the world and wants to destroy the goblins first
+- Syuul has powered up the mothership and is ready to take over the world and wants to destroy the goblins first, and wipe out the party
 
--  Vairai is an old man but is kept only alive by the powers of those from beyond
+-  Vairai is an old man but is kept only alive by the powers of those from beyond, 
 
 
 ## Fantastic Locations
