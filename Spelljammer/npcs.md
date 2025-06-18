@@ -21,5 +21,10 @@ Gop - The plasmoid owner of The Slop Shop, a "spelljammer" stop that  exists on 
 Spreelock - The leader of the Kobold pirates
 
 
+# Rock of Braal
+
+Commodroe Krux - 
+
+
 # Xaryxis 
 Princess Xedalli - 
