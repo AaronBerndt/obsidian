@@ -25,7 +25,6 @@ tags: []
 
 - A powerful elemental creatures is chained inside that volcano, forced to break down the junk into raw materials, and was captured by the "dead civilization" and wants to be free.
 
-- 
 
 ## Fantastic Locations
 
