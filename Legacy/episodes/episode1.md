@@ -21,7 +21,7 @@ tags: []
 
 - Skull Island used to be a beautiful island with a thriving civilization of Witches (The Circle of Seafoam), but when part of the Staff of Seven broken and crashed into the island, it caused the mountain to explode, and nit looks like a skull. The explosion destroyed part of the island but also the lingering blood of Miska the Wolf Spider caused the island to become a place of evil and corruption and cause a permanent storm to surround the island.
  
-- The witches were very strong powerful and specialized in water and protection magic, they were able to create a barrier to contain the corruption but they had to sacrifice themselves to do so and caused parts of the isle to stuck in stasis by using the corruption from 
+- The witches were very strong powerful and specialized in water and protection magic, they were able to create a barrier to contain the corruption but they had to sacrifice themselves to do so and using some of `Lex` magic.
 
 - The only survivor of the event was a young apprentice ( Ophelia) she recently woke up from her stasis and is trying to figure out what happened to her people and the island. She has been trying to find a way to restore the island and its magic.
 
