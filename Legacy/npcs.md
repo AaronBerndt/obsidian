@@ -4,10 +4,6 @@ aliases: []
 tags: []
 ---
 
-#Rogueport
-
-
-
 
 # Corentha
 
@@ -25,22 +21,21 @@ tags: []
 
 # Rogueport 
 
-Bast/bost
+Bast Mirelock - Was a member of the Mirelock family
 
-Toby
+Bosk Mirelock -  member of the Mirelock family
 
-- Gray Coats - Gray Guard, 
+Toby - corrupt Gray coat
+
+Bonvork - A Dwarf shipmaker, he has a red beard with a white stripe down the middle. He is known for his craftsmanship and his ability to create ships that are both fast and durable. He is also known for his gruff demeanor and his no-nonsense attitude.
 
 
 # Golden Goose
 
+# The Maid
 
 # The Drowned bitch
 
 # The Evil Part
 
-
-Corenolous Doggeton The 3rd 
-
-
-Grog -  Bugbear who was working with Based
+Corenolous Doggeton The 3rd  - Dogman who was passed over to join the party.
