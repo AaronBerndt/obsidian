@@ -31,4 +31,4 @@ DiamondEyes - A halfing fixer who get's jobs for the party, he is always looking
 # Xaryxis 
 Princess Xedalli - The princess of the Xaryxis, who want's to stop her brothers plan to destroy Wildspace.
 
-Prince 
+Prince Xeleth - THe prince of the Xaryxis, who is trying to destroy Wildspace and create a new world for his people. He is ruthless and cunning, willing to do whatever it takes to achieve his goals.
