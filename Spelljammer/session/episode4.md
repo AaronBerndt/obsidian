@@ -12,7 +12,7 @@ tags: []
 ## Scenes
 
 - The party arrives at the Rock of Bral, a bustling spaceport and city built into an asteroid.
-- The party goes to their fixer for their reward while waiting for the next job.
+- The party goes to their fixer at "Beholder or Eleven" for their reward while waiting for the next job.
 
 
 
