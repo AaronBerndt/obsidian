@@ -5,6 +5,11 @@ tags: []
 ---
 
 
+# The Great Sea
+
+Gronk'as - A Sea giant who lives out in the great sea
+
+
 # Corentha
 
 
@@ -36,6 +41,6 @@ Bonvork - A Dwarf shipmaker, he has a red beard with a white stripe down the mid
 
 # The Drowned bitch
 
-# The Evil Part
+# The Evil Party
 
 Corenolous Doggeton The 3rd  - Dogman who was passed over to join the party.
