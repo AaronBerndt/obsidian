@@ -7,7 +7,7 @@ tags: []
 
 # The Great Sea
 
-Gronk'as - A Sea giant who lives out in the great sea
+Barnak- A Sea giant who lives out in the great sea
 
 
 # Corentha
