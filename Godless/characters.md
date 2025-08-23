@@ -12,7 +12,7 @@ Thorn -  Dwarf Trea Techopriest Sage member of the Sages
 Kevin - Human Warrior Farmer/Builder -
 
 Rob  - Undine
-   - Because their ancestors were part of the dive team that discovered the tracker to find the Vault.
+Because their ancestors were part of the dive team that discovered the tracker to find the Vault.
 Eon  -  Human Magician , born without eyes sockets but can still see, Magic DareDevil
 
 Brandon - Alfalfa Goblin/Halfling/Gnome Rogue - The Rabbit keeper 
