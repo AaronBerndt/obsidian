@@ -18,8 +18,8 @@ The Cult of the Demonlord was destorying the Twin Cities , and the founders have
     Biome: Underground Bunker - 90s Era technology full of old computers,
     Landmarks: A field of beautiful flowers that never wilt, native MN flowers, a patch of which marks the entrance to the bunker. 
     Abundance and Scarcity:
-    - Abundance: The beautiful flowers, which are used for medicine and food.
-    - Scarcity:  Meat
+    - Abundance: The beautiful flowers, which are used for medicine, food, and dyes.
+    - Scarcity:  Meat, because the Haven no longer raises as many rabbits as they used to, because of the Vizzerdrix incident.
 
     3. Culture: 
         Values: WE VALUE `Community, harmony, tradition` very Midwest values.
