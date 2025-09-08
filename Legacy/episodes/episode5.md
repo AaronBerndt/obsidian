@@ -13,9 +13,24 @@ tags: []
 
 - Entering into the `The Spires of Broken Ships`
 
+- Multiple combat versus Zombies while navigating through the Spires of Broken Ships
+
 - Exploring `Skull Island`
 
 
+
+### Locations 
+
+Coral Graveyard 
+
+The Skill (Impact Crater) 
+
+The Sea King 
+
+## Locations
+
+
+- The Spires of Broken Ships: A treacherous area filled with jagged rocks and the remains of shipwrecks, making navigation difficult. The area is known for its dangerous currents and unpredictable weather, often shrouded in mist. It's said that many ships have met their end here, and the spirits of lost sailors are rumored to haunt the waters.
 
 
 ## Secrets and Clues
@@ -41,6 +56,7 @@ tags: []
 ## Notable NPCs
 
 ## Monsters
+
 - Sirens
 - Zombies
 - Demons 
