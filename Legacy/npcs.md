@@ -44,3 +44,9 @@ Bonvork - A Dwarf shipmaker, he has a red beard with a white stripe down the mid
 # The Evil Party
 
 Corenolous Doggeton The 3rd  - Dogman who was passed over to join the party.
+
+
+
+# Skull Island
+
+Ophelia - The last surviving witch of the Circle of Seafoam, she was put into stasis during the explosion that created Skull Island. She is trying to figure out what happened to her people and the island, and is seeking a way to restore the island and its magic.
