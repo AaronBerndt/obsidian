@@ -16,8 +16,8 @@ tags: []
 
 ## Secrets and Clues 
 -  Doctor Vensor Vex is a mad scientist working for `The Maker`, obsessed with harnessing the power of Mr. Gloom for their own nefarious purposes to create an super weapon for `The Maker` called the THING project.
-
 - The Lab is hidden an outpost called Scraparap, which is a bunch of derelict ships and space debris that have been fused together over time, create a space station of sorts for necromancers and other unsavory characters to hide out in.
+- The THING project is a series of experiments conducted by Doctor Vensor Vex to create powerful undead creatures by fusing together various parts of different beings, the results are often unstable and dangerous. He's harnessing the power of Mr. Gloom to fuel his experiments.
 - `Dead Space` is a region of space where the normal rules of life and death don't apply, and the dead can rise again as undead creatures.
 - Dying in `Dead Space` means your soul doesn't move on to the afterlife, and you become a undead. In order to not lose yourself completely you need to drink ecto which prevent you from becoming a mindless undead.
 - At the center of `Dead Space` is a giant living planet called Mr. Gloom, they're a being of great necreomancitic power, and they are the one who created the undead in `Dead Space`.
