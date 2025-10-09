@@ -20,8 +20,6 @@ Glass Lakes
 
 ### Longbark
 
-Linccon 0 
-
 
 ### Fargo
 
