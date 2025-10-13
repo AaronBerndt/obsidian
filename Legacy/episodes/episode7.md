@@ -32,14 +32,8 @@ The Sea King monument
 
 ## Locations
 
+- The Ear
 
-- The Spires of Broken Ships: A treacherous area filled with jagged rocks and the remains of shipwrecks, making navigation difficult. The area is known for its dangerous currents and unpredictable weather, often shrouded in mist. It's said that many ships have met their end here, and the spirits of lost sailors are rumored to haunt the waters.
-
-- Coral Graveyard: Is the remains of the witches' civilization, now overgrown with coral and seaweed. The buildings are crumbling, and the area is filled with the remnants of their magic. It's a place of both beauty and danger, as the magic that once protected the island still lingers, but so does the corruption.
-
-- The Skull (Impact Crater): The central feature of Skull Island, a massive crater formed by the impact of the Staff of Seven. The crater is surrounded by jagged rocks and is filled with dark, swirling waters. It's said that the heart of the island's magic lies within the crater, but it's also a place of great danger, as the corruption is strongest here.
-
-- The Sea King Monument: A massive statue of a sea king, carved from coral and stone. The monument is said to be a tribute to the witches' connection to the ocean and their ability to communicate with sea creatures. It's a place of reverence and mystery, as the statue is rumored to hold secrets about the island's past and the magic that once thrived there.
 
 
 ## Secrets and Clues
@@ -56,6 +50,10 @@ The Sea King monument
 
 - Because of the corruption of Chaos from Miska, it's actually warped the insides of the mountain causing flair ups of chaotic energy, lava, and magic, making it a dangerous place to be. The insides of the Skull are constantly shifting and changing, making it difficult to navigate.
 
+- The magic from the chaos has animated the elemental spirts of the island and they are now hostile to anyone who enters the island.
+
+- 
+
 
 ## Fantastic Locations
 -  Skull Island
@@ -67,7 +65,8 @@ The Sea King monument
 - Sirens
 - Zombies
 - Demons 
-- Flame ventss
+- Elementals
+- Flame vents
 - Pillars of Chaos
 
 ## Treasure
