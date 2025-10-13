@@ -49,4 +49,6 @@ Corenolous Doggeton The 3rd  - Dogman who was passed over to join the party.
 
 # Skull Island
 
+Amila - One of the elder witches of the Circle of Seafoam, she is slowly becoming corrupted and is trying to find a way to reverse the corruption before she loses herself completely.
+
 Ophelia - The last surviving witch of the Circle of Seafoam, she was put into stasis during the explosion that created Skull Island. She is trying to figure out what happened to her people and the island, and is seeking a way to restore the island and its magic.
