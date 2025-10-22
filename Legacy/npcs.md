@@ -49,6 +49,8 @@ Corenolous Doggeton The 3rd  - Dogman who was passed over to join the party.
 
 # Skull Island
 
+Winter - The leader of the Circle of Seafoam, she is a powerful witch who is determined to protect her people and their way of life. She is fiercely protective of her island and will do whatever it takes to keep it safe from outsiders. She was corrupted and has become a monster.
+
 Amila - One of the elder witches of the Circle of Seafoam, she is slowly becoming corrupted and is trying to find a way to reverse the corruption before she loses herself completely.
 
 Ophelia - The last surviving witch of the Circle of Seafoam, she was put into stasis during the explosion that created Skull Island. She is trying to figure out what happened to her people and the island, and is seeking a way to restore the island and its magic.
