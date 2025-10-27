@@ -12,7 +12,9 @@ tags: []
 
 ## Scenes
 
-- 
+-  The party heads to go find the Spirit Of the Jungle
+
+-  The party has to beat the Spirit Of the Jungle in The Arena and prove their worth, in order to gain its favor to help.
 
 ### Locations 
 
@@ -24,13 +26,15 @@ tags: []
 
 
 ## Secrets and Clues
-
+- 
 
 ## Fantastic Locations
 -  Skull Island
 
 ## Notable NPCs
+- The 
 
+ 
 ## Monsters
 
 
