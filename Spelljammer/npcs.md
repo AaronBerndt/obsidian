@@ -36,7 +36,7 @@ Prince Xeleth - THe prince of the Xaryxis, who is trying to destroy Wildspace an
 
 # Dead Space
 
-Doctor Vensor Vex - A mad scientist working for `The Maker`, obsessed with harnessing the power of Mr. Gloom for their own nefarious purposes
+Doctor Vensor Vex - A mad scientist working for `The Maker`, obsessed with harnessing the power of Mr. Gloom for their own nefarious purposes. Head a lab in Scraptrap where he would perform horrific experiments on living beings.
 
 Grimzod Gagenhale - A clone of Strahd who has been trying to live a normal pirate life, 
 
