@@ -56,3 +56,5 @@ Amila - One of the elder witches of the Circle of Seafoam, she is slowly becomin
 Ophelia - The last surviving witch of the Circle of Seafoam, she was put into stasis during the explosion that created Skull Island. She is trying to figure out what happened to her people and the island, and is seeking a way to restore the island and its magic.
 
 Crust - The Spirit of the Jungle, a powerful entity that protects the island and its inhabitants. It is a massive creature made of vines and leaves, and is said to be able to control the very jungle itself.
+
+Maggie The Mad - A former member of the Circle of Seafoam, she was kicked out and now lives in the jungle building golems out of jungle materials. 
