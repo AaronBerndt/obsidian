@@ -26,7 +26,9 @@ tags: []
 
 
 ## Secrets and Clues
-- 
+- The corruption from the chaos from Miska has spread to other parts of the island and is affecting the wildlife and plants, it's warping and transforming it things of the Far Realm.
+
+- Crust has many children that live in his grove, they all like to fight like their parent, he holds tournaments for them to practice and hone their skills.
 
 ## Fantastic Locations
 -  Skull Island
