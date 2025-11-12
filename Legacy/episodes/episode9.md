@@ -16,6 +16,8 @@ tags: []
 
 - Fight vs Mind controlled Ygra a Siren and some other minions 
 
+- Winter
+
 ### Locations 
 
 
