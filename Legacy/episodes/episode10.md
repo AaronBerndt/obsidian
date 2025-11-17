@@ -14,11 +14,9 @@ tags: []
 - The party is back on the open seas after their adventures on Skull Island
 - The party returns to Rogueport after their adventures at Skull Island.
 
+
 ## Locations
-
 - 
-
-
 
 ## Secrets and Clues
 
