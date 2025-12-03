@@ -23,7 +23,7 @@ tags: []
 
 - Zeke is the leader of resistance on Earth against the Xaryxian invasion, he along a few members from the last campaign.
 
-- Hastain - A Raigar artist noble who works with the Xaryxians, he wants to want the cinema fall of earth.
+- Hastain - A Raigar artist noble who works with the Xaryxians, he wants to watch the cinema fall of earth.
 
 
 
