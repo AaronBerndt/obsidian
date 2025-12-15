@@ -9,6 +9,10 @@ tags: []
 
 Barnak- A Sea giant who lives out in the great sea
 
+# Otter island
+    Mayor Otterton - An otter who is the mayor of Otter Island. He is a kind and friendly otter who is always willing to help out his fellow islanders. Head of the cult to Caelorna.
+
+# 
 
 # Corentha
 
@@ -33,6 +37,9 @@ Bosk Mirelock -  member of the Mirelock family
 Toby - corrupt Gray coat
 
 Bonvork - A Dwarf shipmaker, he has a red beard with a white stripe down the middle. He is known for his craftsmanship and his ability to create ships that are both fast and durable. He is also known for his gruff demeanor and his no-nonsense attitude.
+
+# Karark'kram
+Bonvork The First - Ancestor of Bonvork
 
 
 # Golden Goose
