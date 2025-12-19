@@ -39,7 +39,12 @@ Toby - corrupt Gray coat
 Bonvork - A Dwarf shipmaker, he has a red beard with a white stripe down the middle. He is known for his craftsmanship and his ability to create ships that are both fast and durable. He is also known for his gruff demeanor and his no-nonsense attitude.
 
 # Karark'kram
-Bonvork The First - Ancestor of Bonvork
+Bonvork The First - A ghost Dwarf shipmaker, who built ships for the Dwarf Empire. He converted his workforce into golems to keep working after his death. He was cursed by the same magic and is now a ghost.
+
+Gravis Goldbeard The Gray - A Dwarf Necromancer who worked with Bonvork  on the golem project. He cursed Bonvork.
+
+The Greenbeards - A group of Dwarf pirates who are known for their green dyed beards. They hate the Goldenbeards.
+The Goldenbeards - A group of Dwarf merchants who are known for their golden dyed beards. They hate the Greenbeards.
 
 
 # Golden Goose
@@ -47,6 +52,9 @@ Bonvork The First - Ancestor of Bonvork
 # The Maid
 
 # The Drowned bitch
+
+Scarface - The flamboyant owner of the Drowned bitch tavern in Rogueport. 
+
 
 # The Evil Party
 
