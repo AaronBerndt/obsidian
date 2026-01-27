@@ -9,8 +9,10 @@ tags: []
 
 Barnak- A Sea giant who lives out in the great sea
 
+Gretchen - A hag who lives in a coral reef who wrote a book on sea monsters.
+
 # Otter island
-    Mayor Otterton - An otter who is the mayor of Otter Island. He is a kind and friendly otter who is always willing to help out his fellow islanders. Head of the cult to Caelorna.
+Mayor Otterton - An otter who is the mayor of Otter Island. He is a kind and friendly otter who is always willing to help out his fellow islanders. Head of the cult to Caelorna.
 
 # 
 
