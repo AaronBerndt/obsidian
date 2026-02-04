@@ -3,6 +3,19 @@ id: npcs
 aliases: []
 tags: []
 ---
+# The Crew
+
+Gog - Bugbear who joined the crew from Rogueport he does chores around the ship.
+
+
+Ophelia - The last surviving witch of the Circle of Seafoam, she was put into stasis during the explosion that created Skull Island. She is trying to figure out what happened to her people and the island, and is seeking a way to restore the island and its magic. She joined the party after the events to explore the world. 
+
+Plum - A baby displacer beast 
+
+# The Red Hand
+Corenolous Doggeton The 3rd  - Dogman who was passed over to join the party.
+
+The Cult - An evil org who is looking into reuniting the Rod for Evil
 
 
 # The Great Sea
@@ -14,10 +27,12 @@ Gretchen - A hag who lives in a coral reef who wrote a book on sea monsters.
 # Otter island
 Mayor Otterton - An otter who is the mayor of Otter Island. He is a kind and friendly otter who is always willing to help out his fellow islanders. Head of the cult to Caelorna.
 
-# 
+# Rimegrad
+
+Revna - A sleighmaker from Fishhook
+
 
 # Corentha
-
 
  Dredge - Bugbear handler of stuff
 
@@ -56,12 +71,6 @@ The Goldenbeards - A group of Dwarf merchants who are known for their golden dye
 # The Drowned bitch
 
 Scarface - The flamboyant owner of the Drowned bitch tavern in Rogueport. 
-
-
-# The Evil Party
-
-Corenolous Doggeton The 3rd  - Dogman who was passed over to join the party.
-
 
 
 # Skull Island
