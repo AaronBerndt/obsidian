@@ -10,8 +10,7 @@ tags: []
 ## Characters
 
 ## Scenes
-- The party talks to `Luna` The lady who lives on the Moon.
-- They land on Earth to fight off the Xaryxian invasion.
+- The party is fleeing the Xaryxian and Hastain and their jellyfish
 
 
 ## Secrets and Clues 
@@ -20,8 +19,6 @@ tags: []
 ## Fantastic Locations
 
 ## Notable NPCs
-
-- Zeke is the leader of resistance on Earth against the Xaryxian invasion, he along a few members from the last campaign.
 
 - Hastain - A Raigar artist noble who works with the Xaryxians, he wants to watch the cinema fall of earth.
 
