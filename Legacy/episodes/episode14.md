@@ -6,24 +6,11 @@ tags: []
 
 
 
-# Episode Episode 13: The Ice Caves
+# Episode Episode 14: The Ice Caves
 
 ## Characters
 
 ## Scenes
-- The Caves will 
-
-Jean: Initation into the Cult of Sea, sees the Livaiation.
-
-
-Bodvar - Being as child where his parents are killed by the "Red Hand" and he's saved by the Ursine Spirit who curses him.
-
-Y'gara - 
-
-
-Tef`nari: Tef'nari after the formation of the Cult of the Sword took over her coven. She is imprisoned in a sort of enforced boot camp. "Your unfit to serve as Quarum's spear, you will either become of worth or die." Their regiment nearly kills her a couple of times. 
-
-Feeling delirious from exhaustion she came to the revelation that her true trial to prove her worth to Quarum was to protect his legacy, the spear of Kigeth, stored within the Vault of Vaneeroth, can only be opened with both keys of the ancients, Tef'nari stole the key and fled, only to collapse from exhaustion in the desert.
 
 
 ## Locations
@@ -31,7 +18,13 @@ Feeling delirious from exhaustion she came to the revelation that her true trial
 
 ## Secrets and Clues
 
-- The Caves are magical and will show the characters visions of their past, present, and future. The visions will be different for each character and will be based on their backstory and current motivations. The visions will be cryptic and will require the characters to interpret them in order to understand their meaning.
+- The Red Hand are trying to find a way to break the ancient seal that protects the Old Woods, that's where the piece of The Rod of Seven Parts is hidden.
+
+- The cult runs deep in the village of Two Rivers now
+
+- Bodvar Bjarki was killed by the Facestealer a demon from the Abyss, those who see him see a different form.  The steal has been living his life and is actually high up in the village.
+
+- Those who worship the old gods have formed a resistance against the Red Hand, but they are small and disorganized.
 
 
 
