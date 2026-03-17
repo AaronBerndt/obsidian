@@ -21,6 +21,10 @@ Wetoskey - A gruff human bard from Earth who was a barkeep he joined the crew wh
 # Wildspace 
 
 
+# Clown Space
+
+Ticket Master/ Prize Keeper / and others - A create who lives in Clown Space
+
 
 # Scrap Space
 Gop - The plasmoid owner of The Slop Shop, a "spelljammer" stop that  exists on the edge of Wild Space.

@@ -84,3 +84,11 @@ Ophelia - The last surviving witch of the Circle of Seafoam, she was put into st
 Crust - The Spirit of the Jungle, a powerful entity that protects the island and its inhabitants. It is a massive creature made of vines and leaves, and is said to be able to control the very jungle itself.
 
 Maggie The Mad - A former member of the Circle of Seafoam, she was kicked out and now lives in the jungle building golems out of jungle materials. 
+
+
+
+# Two Rivers
+
+
+Mani - Bodvar's Daughter she servers at The Roost
+Ivar - 
