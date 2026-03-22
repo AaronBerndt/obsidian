@@ -1,5 +1,5 @@
 ---
-id: Episode 17
+id: conquest_episode17
 aliases:
   - Episode 17
 tags:

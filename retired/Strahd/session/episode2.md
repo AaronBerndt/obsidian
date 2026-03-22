@@ -1,5 +1,5 @@
 ---
-id: episode2
+id: strahd_episode2
 aliases:
   - Episode 2
 tags:

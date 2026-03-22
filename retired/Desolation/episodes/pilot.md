@@ -1,5 +1,5 @@
 ---
-id: Pilot
+id: desolation_pilot
 aliases:
   - Pilot
   - Desolation

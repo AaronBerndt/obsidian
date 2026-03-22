@@ -1,5 +1,5 @@
 ---
-id: pilot
+id: legacy_pilot
 aliases: []
 tags: []
 ---

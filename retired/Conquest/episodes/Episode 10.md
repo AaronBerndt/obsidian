@@ -1,5 +1,5 @@
 ---
-id: Episode 10
+id: conquest_episode10
 aliases:
   - Episode 10
 tags:

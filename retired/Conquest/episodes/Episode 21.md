@@ -1,5 +1,5 @@
 ---
-id: Episode 21
+id: conquest_episode21
 aliases: []
 tags: []
 ---

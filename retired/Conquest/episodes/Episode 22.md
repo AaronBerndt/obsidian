@@ -1,5 +1,5 @@
 ---
-id: Episode 22
+id: conquest_episode22
 aliases: []
 tags: []
 ---

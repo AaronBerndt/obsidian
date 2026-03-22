@@ -1,5 +1,5 @@
 ---
-id: Episode 13
+id: conquest_episode13
 aliases:
   - Episode 13
 tags:

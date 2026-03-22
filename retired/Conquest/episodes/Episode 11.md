@@ -1,5 +1,5 @@
 ---
-id: Episode 11
+id: conquest_episode11
 aliases:
   - Episode 11
 tags:

@@ -1,5 +1,5 @@
 ---
-id: pilot
+id: spelljammer_pilot
 aliases: []
 tags: []
 ---

@@ -1,5 +1,5 @@
 ---
-id: Episode 18
+id: conquest_episode18
 aliases:
   - Episode 18
 tags:

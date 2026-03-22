@@ -1,5 +1,5 @@
 ---
-id: Episode 28
+id: conquest_episode28
 aliases: []
 tags: []
 ---

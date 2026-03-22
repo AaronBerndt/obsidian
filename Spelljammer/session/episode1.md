@@ -1,5 +1,5 @@
 ---
-id: episode1
+id: spelljammer_episode1
 aliases: []
 tags: []
 ---

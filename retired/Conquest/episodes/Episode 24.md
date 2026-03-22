@@ -1,5 +1,5 @@
 ---
-id: Episode 24
+id: conquest_episode24
 aliases: []
 tags: []
 ---

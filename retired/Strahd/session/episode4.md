@@ -1,5 +1,5 @@
 ---
-id: episode4
+id: strahd_episode4
 aliases: []
 tags: []
 ---

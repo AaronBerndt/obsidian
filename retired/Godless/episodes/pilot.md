@@ -1,5 +1,5 @@
 ---
-id: pilot
+id: godless_pilot
 aliases: []
 tags: []
 ---

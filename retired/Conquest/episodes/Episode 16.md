@@ -1,5 +1,5 @@
 ---
-id: Episode 14
+id: conquest_episode16
 aliases:
   - Episode 14
 tags:

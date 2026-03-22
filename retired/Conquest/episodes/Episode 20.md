@@ -1,5 +1,5 @@
 ---
-id: Episode 20
+id: conquest_episode20
 aliases: []
 tags: []
 ---
