@@ -13,9 +13,13 @@ Ophelia - The last surviving witch of the Circle of Seafoam, she was put into st
 Plum - A baby displacer beast 
 
 # The Red Hand
+An evil organization looking to reunite the Rod of Seven Parts for evil. Led by Azarr Kull.
+
+Azarr Kull - Leader of the Red Hand.
+
 Corenolous Doggeton The 3rd  - Dogman who was passed over to join the party.
 
-The Cult - An evil org who is looking into reuniting the Rod for Evil
+The Facestealer - A manifestation of a fragment of the Rod of Seven Parts. Those who see him perceive a different form. Killed Bodvar Bjarki.
 
 
 # The Great Sea
