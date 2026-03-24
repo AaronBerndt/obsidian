@@ -18,7 +18,7 @@ Azarr Kull - Leader of the Red Hand.
 
 Corenolous Doggeton The 3rd  - Dogman who was passed over to join the party.
 
-Mira
+Mika - The Inqusitor of Two Rivers
 
 
 ### The Great Sea
@@ -94,6 +94,7 @@ Revna - A sleighmaker from Fishhook
 
 
 # Two Rivers
-
+Manni - THe Fishmonger
 Mani - Bodvar's Daughter she servers at The Roost
-Ivar - 
+Eskil - The hunter survior to return from from battling the Beast
+Bjorn - Was a hunter

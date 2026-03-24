@@ -27,7 +27,7 @@ tags: []
 
 - Gnoll Barbarian from the desert 
 
-
+- Made a pact with Oppheila to not spy on her
 
 # Egoluis the archivist of fallings stars
 
