@@ -23,8 +23,12 @@ Wetoskey - A gruff human bard from Earth who was a barkeep he joined the crew wh
 
 # Clown Space
 
-Ticket Master/ Prize Keeper / and others - A create who lives in Clown Space
+Ticket Master/ Prize Keeper / and others - A creature who lives in Clown Space
 
+
+# Trash Space
+
+The Garbage Man - A worker who lives in 
 
 # Scrap Space
 Gop - The plasmoid owner of The Slop Shop, a "spelljammer" stop that  exists on the edge of Wild Space.
@@ -53,3 +57,9 @@ Doctor Vensor Vex - A mad scientist working for `The Maker`, obsessed with harne
 Grimzod Gagenhale - A clone of Strahd who has been trying to live a normal pirate life, 
 
 Grognac - The first mate of Grimzod Gagenhale, a gruff Orc warlord who hates the captain and wants to take over the ship.
+
+# The Area
+
+Vel'kas - Area fighter who became the champ after Bost left
+
+VolGath the Mercane - The owner of the Area and lover of the game
