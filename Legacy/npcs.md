@@ -33,37 +33,23 @@ Mayor Otterton - An otter who is the mayor of Otter Island. He is a kind and fri
 
 # Corentha
 
- Dredge - Bugbear handler of stuff
-
- Stump  - Halfling, Missing a leg
-
- Tug    - Human, Both hands are hooks
- 
- Fu`Show - Human  eyeman
-
- Yanni  - Mintotaur falls alsleep all the time. 
-
 
 ### Rogueport 
 
-
 # The Mirelock family
+Bast Mirelock Senior - The head of the Mirelock
 Bast Mirelock - Was a member of the Mirelock family
 
 Bosk Mirelock -  member of the Mirelock family
 
 Toby - corrupt Gray coat
 
-# Golden Goose
-
-# The Maid
-
-# The Drowned bitch
-
+### Citizens
 Scarface - The flamboyant owner of the Drowned bitch tavern in Rogueport. 
 
-
 Bonvork - A Dwarf shipmaker, he has a red beard with a white stripe down the middle. He is known for his craftsmanship and his ability to create ships that are both fast and durable. He is also known for his gruff demeanor and his no-nonsense attitude.
+
+Juice - The lone Frickner Juice salesmen 
 
 # Karark'kram
 Bonvork The First - A ghost Dwarf shipmaker, who built ships for the Dwarf Empire. He converted his workforce into golems to keep working after his death. He was cursed by the same magic and is now a ghost.
@@ -94,7 +80,23 @@ Revna - A sleighmaker from Fishhook
 
 
 # Two Rivers
-Manni - THe Fishmonger
+
+Manni - The Fishmonger/Serpent Monger
 Mani - Bodvar's Daughter she servers at The Roost
 Eskil - The hunter survior to return from from battling the Beast
-Bjorn - Was a hunter
+Bjorn - Was a hunter was slain by the Beast
+
+
+
+# Dead Crew
+
+ Dredge - Bugbear handler of stuff
+
+ Stump  - Halfling, Missing a leg
+
+ Tug    - Human, Both hands are hooks
+ 
+ Fu`Show - Human  eyeman
+
+ Yanni  - Mintotaur falls alsleep all the time. 
+
