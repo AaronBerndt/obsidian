@@ -5,7 +5,7 @@ tags: []
 ---
 
 
-# Episode 12: Clowning Around part 2 : The Hall of Mirrors
+# Episode 13: Reuinion
 
 ## Characters
 
@@ -13,7 +13,9 @@ tags: []
 - Start the combat with "Chimera" 
 
 ## Secrets and Clues 
--
+- Time passes faster in `Clown Space` and a few years have past since the players entered the worm hole.
+
+- 
 
 
 ## Fantastic Locations

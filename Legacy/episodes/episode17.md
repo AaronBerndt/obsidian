@@ -23,20 +23,29 @@ tags: []
 
 - The Temple was created to project the shard of the Rod of Seven and is trapped and full of puzzles to prevent access deeper parts where the Rod Shard is hidden.
 
+- The Beasts were created to protect the Shard from falling into the wrong hands, but were released when the lock was broken.
+
 - The shard of the staff of the Rod of Seven Parts is hidden inside of temple but it has since lost it's power since the power split into the two beasts that roam the lands, reuniting those will joins those back together. 
 
-- The Blind Mice are working with the 
+- The Blind mice are impersonating the priests so they can figure out how to break into the vault where the shard is held. 
 
 
 
 
-## Fantastic Locations
--   
+
+
+## Dungeon Rooms
+
+
+1 - The Entrance 
+2 - The Chapel
+
+
 
 ## Notable NPCs
  
 ## Monsters
-
+- The Golem
 
 ## Treasure
 
