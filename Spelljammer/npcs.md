@@ -63,3 +63,7 @@ Grognac - The first mate of Grimzod Gagenhale, a gruff Orc warlord who hates the
 Vel'kas - Area fighter who became the champ after Bost left
 
 VolGath the Mercane - The owner of the Area and lover of the game
+
+
+# No where
+- Mr.Biscuits - Sarah's cat turned into a fixer
