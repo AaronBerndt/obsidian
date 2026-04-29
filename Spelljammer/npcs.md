@@ -63,3 +63,23 @@ Grognac - The first mate of Grimzod Gagenhale, a gruff Orc warlord who hates the
 Vel'kas - Area fighter who became the champ after Bost left
 
 VolGath the Mercane - The owner of the Area and lover of the game
+
+
+# Some Place
+
+
+
+Port Master -
+
+Skruggg - The barkeep Plasmoid Orge
+
+Three Heads (Left, Center, Right)  - 
+
+
+Mr. B -  
+
+
+
+# Gnome Space
+
+Zilf Father

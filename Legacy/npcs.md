@@ -98,5 +98,13 @@ Bjorn - Was a hunter was slain by the Beast
  
  Fu`Show - Human  eyeman
 
- Yanni  - Mintotaur falls alsleep all the time. 
+ Yanni  - Mintotaur falls alsleep all the time.
+
+# The Beastlands
+
+"Brother Varn" (Hecton Graye) - Rat man bandit leader and former sewer-warren enforcer posing as a head acolyte in a rat men monastery.
+
+"Sister Tallow" (Mags Redknife) - Rat man pickpocket and fence from the undercity warrens posing as a traveling healer on pilgrimage. Uses sedative herbs to map the monastery while monks sleep.
+
+"Brother Orm" (Jaelith Blackwater) - Rat man smuggler and tunnel-runner posing as a surface colony convert. Established a smuggling route through the monastery's cellar tunnels.
 

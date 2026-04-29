@@ -29,16 +29,16 @@ tags: []
 
 - The Blind mice are impersonating the priests so they can figure out how to break into the vault where the shard is held. 
 
+- Some of the past "Keepers" still haunt the chapel, but they have very little they can do to influence the mortal relem except scary people.
 
-
-
-
+- TH
 
 ## Dungeon Rooms
 
 
 1 - The Entrance 
 2 - The Chapel
+2 - Hidden Entrance 
 
 
 
