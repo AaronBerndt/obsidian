@@ -68,8 +68,6 @@ VolGath the Mercane - The owner of the Area and lover of the game
 
 # Some Place
 
-
-
 Port Master -
 
 Skruggg - The barkeep Plasmoid Orge
@@ -80,7 +78,5 @@ Three Heads (Left, Center, Right)  -
 Mr. B -  
 
 
-
 # Gnome Space
 
-Zilf Father
