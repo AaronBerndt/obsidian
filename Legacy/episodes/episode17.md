@@ -5,7 +5,7 @@ aliases:
 tags: []
 ---
 
-# Episode Episode 17: The Beast
+# Episode Episode 17: The Beast Part 1
 
 ## Characters
 

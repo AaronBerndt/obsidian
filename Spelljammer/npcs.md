@@ -8,10 +8,11 @@ tags: []
 
 # npcs
 
-# The Crew of the Morning Star
+# The Crew of the Morning Star and Boulder
 
 Peaches - A treant who was rescued from Scrap Space and now powers the defense systems of the Morning Star. 
 
+FlapJack - 
 
 Franklin - A random human from Earth who make first contact with the crew of the Morning Star and was rescued when the Xaryxians attacked. He is super nerdy about space and technology and is really into conspiracy theories.
 
