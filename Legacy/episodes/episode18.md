@@ -1,16 +1,16 @@
 ---
-id: legacy_episode16
+id: legacy_episode18
 aliases:
-  - episode15
+  - episode18
 tags: []
 ---
 
-# Episode Episode 18: The Beast Part 2
+# Episode 18: The Beast Part 2
 
 ## Characters
 
 ## Scenes
-- The party fights the  Blind Mice and then tracks down the Beast
+- The party fights the Blind Mice and then tracks down the Beast.
 
 
 ## Locations

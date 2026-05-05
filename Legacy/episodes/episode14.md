@@ -6,7 +6,7 @@ tags: []
 
 
 
-# Episode Episode 14: Two Rivers
+# Episode 14: Two Rivers
 
 ## Characters
 

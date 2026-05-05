@@ -6,14 +6,14 @@ tags: []
 
 
 
-# Episode Episode 13: The Ice Caves
+# Episode 13: The Ice Caves
 
 ## Characters
 
 ## Scenes
 - The Caves will 
 
-Jean: Initation into the Cult of Sea, sees the Livaiation.
+Jean: Initiation into the Cult of the Sea, sees the Leviathan.
 
 
 Bodvar - Being as child where his parents are killed by the "Red Hand" and he's saved by the Ursine Spirit who curses him.
@@ -21,7 +21,7 @@ Bodvar - Being as child where his parents are killed by the "Red Hand" and he's 
 Y'gara - 
 
 
-Tef`nari: Tef'nari after the formation of the Cult of the Sword took over her coven. She is imprisoned in a sort of enforced boot camp. "Your unfit to serve as Quarum's spear, you will either become of worth or die." Their regiment nearly kills her a couple of times. 
+Tef'nari: Tef'nari after the formation of the Cult of the Sword took over her coven. She is imprisoned in a sort of enforced boot camp. "You're unfit to serve as Quarum's spear, you will either become of worth or die." Their regimen nearly kills her a couple of times. 
 
 Feeling delirious from exhaustion she came to the revelation that her true trial to prove her worth to Quarum was to protect his legacy, the spear of Kigeth, stored within the Vault of Vaneeroth, can only be opened with both keys of the ancients, Tef'nari stole the key and fled, only to collapse from exhaustion in the desert.
 

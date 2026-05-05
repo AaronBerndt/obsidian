@@ -6,7 +6,7 @@ tags: []
 
 
 
-# Episode Episode 9: Winter
+# Episode 9: Winter
 
 ## Characters
 
@@ -14,7 +14,7 @@ tags: []
 
 - The party heads to the school to confront Winter and try to reverse the curse.
 
-- Fight vs Mind controlled Ygra a Siren and some other minions 
+- Fight vs mind-controlled Ygara, a Siren, and some other minions
 
 - Winter
 

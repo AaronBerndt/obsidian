@@ -10,12 +10,12 @@ tags: []
 
 
 # Jeanne Teach
-- Human Cleric worhshipping the Sea Godd
+- Human Cleric worshipping the Sea God
 
 
 
 # Bodvar Bjarki
-- Wearbear Warden from the North who wants to return to his home and skill the Facestealer 
+- Werebear Warden from the North who wants to return to his home and kill the Facestealer 
 
 
 # Tefnare Broken Spear
@@ -29,7 +29,7 @@ tags: []
 
 - Made a pact with Oppheila to not spy on her
 
-# Egoluis the archivist of fallings stars
+# Egoluis the archivist of falling stars
 
 - Human Wizard and leader of the expedition to find all rod of seven parts
 

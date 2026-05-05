@@ -6,7 +6,7 @@ tags: []
 
 
 
-# Episode Episode 10: Return to Rogueport
+# Episode 10: Return to Rogueport
 
 ## Characters
 

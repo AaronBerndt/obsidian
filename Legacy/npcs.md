@@ -18,7 +18,7 @@ Azarr Kull - Leader of the Red Hand.
 
 Corenolous Doggeton The 3rd  - Dogman who was passed over to join the party.
 
-Mika - The Inqusitor of Two Rivers
+Mika - The Inquisitor of Two Rivers
 
 
 ### The Great Sea
@@ -82,8 +82,8 @@ Revna - A sleighmaker from Fishhook
 # Two Rivers
 
 Manni - The Fishmonger/Serpent Monger
-Mani - Bodvar's Daughter she servers at The Roost
-Eskil - The hunter survior to return from from battling the Beast
+Mani - Bodvar's Daughter, she serves at The Roost
+Eskil - The hunter, the lone survivor to return from battling the Beast
 Bjorn - Was a hunter was slain by the Beast
 
 
@@ -98,7 +98,7 @@ Bjorn - Was a hunter was slain by the Beast
  
  Fu`Show - Human  eyeman
 
- Yanni  - Mintotaur falls alsleep all the time.
+ Yanni  - Minotaur, falls asleep all the time.
 
 # The Beastlands
 

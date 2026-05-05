@@ -5,7 +5,7 @@ tags: []
 ---
 
 
-# Episode Episode 4: The Spire part 2 
+# Episode 4: The Spire Part 2
 
 ## Characters
 

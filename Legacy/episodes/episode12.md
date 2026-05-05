@@ -6,7 +6,7 @@ tags: []
 
 
 
-# Episode Episode 12: Traveling to the Ice Lands
+# Episode 12: Traveling to the Ice Lands
 
 ## Characters
 

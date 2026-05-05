@@ -5,7 +5,7 @@ aliases:
 tags: []
 ---
 
-# Episode Episode 19: Tef
+# Episode 19: Tef
 
 ## Characters
 

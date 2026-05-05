@@ -1,11 +1,11 @@
 ---
-id: legacy_episode16
+id: legacy_episode17
 aliases:
-  - episode15
+  - episode17
 tags: []
 ---
 
-# Episode Episode 17: The Beast Part 1
+# Episode 17: The Beast Part 1
 
 ## Characters
 
@@ -19,19 +19,17 @@ tags: []
 ## Secrets and Clues
 
 
-- Some members of the tribes see the lack of resources as a problem by they mend ties with the "No Furs" to trade resources they have have gathered, others want to unite the tribes to go to war with the men.
+- Some members of the tribes see the lack of resources as a problem and want to mend ties with the "No Furs" to trade resources they have gathered; others want to unite the tribes to go to war with the men.
 
-- The Temple was created to project the shard of the Rod of Seven and is trapped and full of puzzles to prevent access deeper parts where the Rod Shard is hidden.
+- The Temple was created to protect the shard of the Rod of Seven and is trapped and full of puzzles to prevent access to the deeper parts where the Rod Shard is hidden.
 
 - The Beasts were created to protect the Shard from falling into the wrong hands, but were released when the lock was broken.
 
-- The shard of the staff of the Rod of Seven Parts is hidden inside of temple but it has since lost it's power since the power split into the two beasts that roam the lands, reuniting those will joins those back together. 
+- The shard of the staff of the Rod of Seven Parts is hidden inside the temple, but it has since lost its power because the power split into the two beasts that roam the lands; reuniting them will join the shard back together. 
 
-- The Blind mice are impersonating the priests so they can figure out how to break into the vault where the shard is held. 
+- The Blind Mice are impersonating the priests so they can figure out how to break into the vault where the shard is held. 
 
-- Some of the past "Keepers" still haunt the chapel, but they have very little they can do to influence the mortal relem except scary people.
-
-- TH
+- Some of the past "Keepers" still haunt the chapel, but they have very little they can do to influence the mortal realm except scare people.
 
 ## Dungeon Rooms
 

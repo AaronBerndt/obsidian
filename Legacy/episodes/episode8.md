@@ -6,15 +6,15 @@ tags: []
 
 
 
-# Episode Episode 6: Return to Skull Island
+# Episode 8: The Spirit of the Jungle
 
 ## Characters
 
 ## Scenes
 
--  The party heads to go find the Spirit Of the Jungle
+- The party heads to go find the Spirit of the Jungle.
 
--  The party has to beat the Spirit Of the Jungle in The Arena and prove their worth, in order to gain its favor to help.
+- The party has to beat the Spirit of the Jungle in The Arena and prove their worth, in order to gain its favor to help.
 
 ### Locations 
 
@@ -26,7 +26,7 @@ tags: []
 
 
 ## Secrets and Clues
-- The corruption from the chaos from Miska has spread to other parts of the island and is affecting the wildlife and plants, it's warping and transforming it things of the Far Realm.
+- The corruption from the chaos from Miska has spread to other parts of the island and is affecting the wildlife and plants, warping and transforming them into things of the Far Realm.
 
 - Crust has many children that live in his grove, they all like to fight like their parent, he holds tournaments for them to practice and hone their skills.
 
@@ -34,9 +34,7 @@ tags: []
 -  Skull Island
 
 ## Notable NPCs
-- The 
 
- 
 ## Monsters
 
 
