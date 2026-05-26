@@ -11,6 +11,7 @@ tags: []
 
 # Jeanne Teach
 - Human Cleric worshipping the Sea God
+- Lost arm to the Leviathan
 
 
 
@@ -18,7 +19,7 @@ tags: []
 - Werebear Warden from the North who wants to return to his home and kill the Facestealer 
 
 
-# Tefnare Broken Spear
+# Tefnare The Reforged
 
 - Half Elf Monk from the desert who stole a powerful artifact and is being hunted for it
 

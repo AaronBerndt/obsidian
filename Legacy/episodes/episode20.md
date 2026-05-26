@@ -21,3 +21,5 @@ tags: []
 
 - The Red Hand has a piece of the Rod that they use to track the others, and have active projects around the world looking into how to piece the rod together.
 
+- If Bodvar rejoins with Goodvar, the current Bodvar might be overwritten.
+
