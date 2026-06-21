@@ -5,12 +5,12 @@ aliases:
 tags: []
 ---
 
-# Episode 21: Escape
+# Episode 21: The World Tree
 
 ## Characters
 
 ## Scenes
-- The party is heading to the World
+- The party is heading to the World Tree
 
 
 ## Locations
@@ -18,4 +18,3 @@ tags: []
 
 ## Secrets and Clues
 - The barrier between Law and Chaos is weakening allowing Chaos to break through and start consuming parts of the world. 
-- If 
