@@ -22,3 +22,7 @@ tags: []
 - The gnoll tribes have come under one banner under `The Pale One` known as `Gamal` and they have been pushing their teratory closer to the free cities and are having beef with another Warlord Tef Father on ruling the outer wastes 
 
 - Since the rifts have open strange creatures are rumored to be lurking in the shadows and some say some people have been going missing.
+
+- The `Covenant of the Sword` has finally tracked down `Tef` to try to get back the stolen, and it's a group being led by her Mother, they are looking for the artifact that `Tef` stole so they can help close the rift that is causing creatures to attack their temple>
+
+
