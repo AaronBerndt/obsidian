@@ -10,7 +10,7 @@ tags: []
 ## Characters
 
 ## Scenes
-- 
+- Montage the party traveling to Dresk
 
 ## Locations
 -
@@ -23,3 +23,5 @@ tags: []
 
 
 Fishhook is destroyed
+=======
+- The gnolls used to be Elves but were corrupted by the influnces of the Obyrith
