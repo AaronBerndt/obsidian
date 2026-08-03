@@ -20,7 +20,8 @@ tags: []
 
 ## Secrets and Clues
 - The `Void holes` have popped up all over the world and it's still unknown why.
-- The `Red Hands` 
+- The `Red Hands` is a giant org and has multiple HQs across the word trying to put the parts together. They also have access to advanced tech that allows them to talk to each other. 
 - The "Covenant of the Sword" has finally tracked down `Tef` to try to get back the stolen, they are looking for it
 - There is a power vac in Rogueport since the `Mirelock` HQ was sucked up into a `Void Rift` between differnt gang heads.
-- Strange creatures are rummoered to come out of the portals.
+- Strange things happen near the void rifts, people go missing, strange shadow creatures at the edge of people vision etc
+- 

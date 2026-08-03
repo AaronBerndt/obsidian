@@ -110,3 +110,4 @@ Bjorn - Was a hunter was slain by the Beast
 
 
 # Dresk
+Lady Crimson - The Leader of a gang in Julee
