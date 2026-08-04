@@ -111,3 +111,7 @@ Bjorn - Was a hunter was slain by the Beast
 
 # Dresk
 Lady Crimson - The Leader of a gang in Julee
+
+Dartz Daggers - Dagger salesmen
+
+Telfa'gar - `Tef's` father

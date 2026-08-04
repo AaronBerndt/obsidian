@@ -11,7 +11,8 @@ tags: []
 
 ## Scenes
 - The party returns back to the inn and find the note about the `Opal Tower`
-- T
+- The party journies to the `Opal Tower`
+- The party runs into `Tef's Mom`
 
 ## Locations
 -
@@ -25,7 +26,12 @@ tags: []
 - Since the rifts have opened strange creatures are rumored to be taking over the local ecosystems of the `Dresk` and have pushed the natative creatures
 
 - The `Covenant of the Sword` has finally tracked down `Tef` to try to get back the stolen, and it's a group being led by her Mother, they are looking for the artifact that `Tef` stole so they can help close the rift that is causing creatures to attack their temple>
+[x]
 
 - `Julee` used to span more of `Dresk` but over time they've lost sections to raids and the wastes, unknown treasure have been left behind to flee the chaos.
 
 - `The Opal Tower` is all that remains of the grand palace of the last `Sultan of Julee`, the remains of the palace are long covered by the sands, it's said that the riches still rest under the sands
+
+
+- `Tef's` Father is an ex Warlord is down on his luck after his crew was killed my Gnolls
+- Telfa'gar
