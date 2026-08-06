@@ -5,56 +5,48 @@ aliases:
 tags: []
 ---
 
-# Characters
-
-The crew. One block per PC.
-
-Format per character:
-- **Role** — Rockerboy / Solo / Netrunner / Tech / Medtech / Media / Exec / Lawman / Fixer / Nomad
-- **Lifepath** — Cultural origin, personality, clothing/style, hairstyle, affectation, motivations
-- **Role Ability** — the rank and what it buys them
-- **Humanity / Cyberware** — what chrome they run, what it cost them
-- **Life Goal** — the thing they are chasing this campaign
-- **Debt / Enemy** — who they owe, who wants them dead
-- **Street Cred** — reputation and what they're known for
-- **Housing / Lifestyle** — where they crash, what they eat, who knows the address
-
----
-
-# (Character Name)
-
-- **Role**:
-- **Lifepath**:
-- **Role Ability**:
-- **Humanity / Cyberware**:
-- **Life Goal**:
-- **Debt / Enemy**:
-- **Street Cred**:
-- **Housing / Lifestyle**:
-
-**Background**
 
 
----
+Solo:
 
-# (Character Name)
+Friends
+    Leny - who is Roddie for Rockerboy, they Geek out about stuff
+    Cortez - Fixer for a edgerunner crew
 
-- **Role**:
-- **Lifepath**:
-- **Role Ability**:
-- **Humanity / Cyberware**:
-- **Life Goal**:
-- **Debt / Enemy**:
-- **Street Cred**:
-- **Housing / Lifestyle**:
+Enemy
+    Corpo Fixer who might be related to Rockerboy
+    Abe "Cain" the "Rat Catcher" who is a solo who works for the NCPD
 
-**Background**
+    
+
+MedTech:
+Goal: To right a wrong that he commit that could be related to his ex
+Friends
+    Eve - EX they've stayed friends 
+    Gibz - A ripper doc 
+
+Enemy
+    Opus who he modded out, who killed his lover
+
+Rockerboy:
+
+Friends
+    Leny - who is Roddie
+Enemy
+    Brother who is a Corpo Fixer, he has a feud because of a past lover who went missing,
 
 
----
+Netrunner:
+Goal: To fix their rep
+Only cares about themself
+Friends
+    Mentor
+Enemy
 
-# Crew Ties
+Family Lost everything
 
-How the crew knows each other, and what job first put them in the same room.
 
--
+How they know each other
+
+
+
