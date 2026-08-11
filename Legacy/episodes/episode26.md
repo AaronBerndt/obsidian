@@ -22,3 +22,14 @@ tags: []
 - The Elves of `Dresk` and Elves of `Vai'con'ias` had been fighting since the breaking of the `Treaty of Three (maybe Four) Nations`
 
 - The gnoll were once elves corrupted by the influences of `The Obylith` like Vai'rai and Elves on Iki Iki island.
+
+
+- The Far
+
+- Tef's mother is hoping that getting access  
+
+- Telfa'gar 
+
+
+- 
+
