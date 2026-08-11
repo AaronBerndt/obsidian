@@ -129,17 +129,3 @@ Rank not recorded on the sheet; no role-ability points are stored.
 | Wilderness Survival    | 2     |
 | Tracking               | 0     |
 
-## Notes
-
-- **Lifestyle**: housing is a cargo container; €$200 cash on the sheet. A long way down
-  from the skyscraper mansion he grew up in.
-- The campaign notes in [[characters]] line up well with this sheet: the Rockerboy's
-  enemy is "Brother who is a Corpo Fixer, he has a feud because of a past lover who went
-  missing" — the sheet names that brother **Wraith Reyes**, a Fixer on the corporate
-  ladder, and the vanished lover **Yuki Cooper**.
-- The friend is spelled **Lemmy** on the sheet but **Leny** in [[characters]]. Same
-  person, presumably — the notes call him a roadie, the sheet a "music tec."
-- The sheet lists Lemmy's circle as "NCPD employee," which sits oddly next to a
-  Rockerboy whose whole deal is anti-authority. Could be a deliberate hook or a leftover.
-- **Charismatic Impact rank is missing**, as is **MOVE**. Both need filling in before play.
-- Tracking is at level 0 — listed for completeness, but effectively untrained.

@@ -125,27 +125,3 @@ Level-0 (untrained) entries on the sheet, hidden by its own display filter: Auto
 Drive Land Vehicle, Handgun, Heavy Weapons, Lip Reading, Pilot Air Vehicle, Riding,
 Sea Vehicle Tech, Shoulder Arms, Streetwise, plus one unnamed custom skill slot.
 
-## Notes
-
-- **Lifestyle**: €$70 cash on the sheet.
-- **The campaign notes in [[characters]] match this sheet almost exactly.** The Solo
-  entry lists "Cortez - Fixer for a edgerunner crew" (sheet: Cortez, Fixer, edgerunning
-  crew), "Leny... they Geek out about stuff" (sheet: **Lemmy**, "you geek out together,"
-  Rocker), and "Abe 'Cain' the 'Rat Catcher' who is a solo who works for the NCPD"
-  (sheet: **Kane**, Solo, NCPD employee). Spellings differ — Lemmy/Leny, Kane/Cain.
-- **The second enemy is a placeholder.** The name field reads `Idk`. The notes list the
-  Solo's other enemy as "Corpo Fixer who might be related to Rockerboy," and the sheet
-  gives this enemy the Fixer role — which points at **Wraith Reyes**, [[Sebastian]]'s
-  brother. But the circles disagree: Bell's sheet says *Government employee*, Sebastian's
-  says *Corporate Ladder Climber*. Worth settling before it comes up in play.
-- **Lemmy is shared with [[Sebastian]]** — Rocker, NCPD employee circle on both sheets.
-  Consistent across the two characters.
-- **Humanity is manually set to 0.** With EMP 8 it should be 80. Either a stray edit or
-  an unfinished field; at 0 she'd be in full cyberpsychosis.
-- **Combat Awareness rank is missing** — no role-ability points are stored, same gap as
-  [[Sebastian]]'s Charismatic Impact.
-- **This Solo has no ranged combat skill at all.** Handgun, Shoulder Arms, Autofire, and
-  Heavy Weapons are all 0; the build is entirely Judo/Brawling/Melee. Deliberate martial
-  artist, or an unfinished skill spend — worth confirming.
-- Streetwise is also 0, which sits oddly against a Combat Zone upbringing and a
-  "wherever the money takes you" territory.

@@ -131,10 +131,3 @@ he probably shouldn't be able to afford.
 | Basic Tech                | 1     |
 | Electronics/Security Tech | 1     |
 
-## Notes
-
-- The campaign notes in [[characters]] list Sal's enemy as **Opus**, "who he modded out,
-  who killed his lover" — the Demiplane sheet instead names **Lily**, an ex-lover. Worth
-  reconciling.
-- Both tragic love affairs (Eve and Lily) are recorded as ending in an accidental death,
-  but Eve is also listed as a living friend. Likely a leftover from character creation.
