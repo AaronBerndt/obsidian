@@ -114,9 +114,15 @@ Lady Crimson - The Leader of a gang in Julee
 
 Dartz Daggers - Dagger salesmen
 
-Telfa'gar - `Tef's` father
+Telfa'gar "Blood Beard" - `Tef's` father
 
+Ode'c
+
+Tef'ara 
 
 # Far Realm
 
 Naarva - A masked women Obyrith
+
+
+# Temple of Emotp

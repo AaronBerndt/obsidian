@@ -23,6 +23,15 @@ Format:
 
 ## Available
 
+### [[TheLastCut|The Last Cut]]
+Play the tribute set at a dead rockerboy's wake. While the room watches the stage, lift
+six reels of master tape out of the host's archive two floors up.
+- **Client / Fixer**: **Nadia Vey**, Torch Mbeki's producer / **Cortez**
+- **Pay**: 3,200eb split, +1,000eb if the reels arrive cold and undamaged
+- **Target**: six analog masters in a climate case, floor 39 of the Glass Bell, Westbrook
+- **Opposition**: **Ilse Prynne** and four soft-jacket guards, in a room with 140 civilians
+- **Twist**: the host had Torch killed for the catalogue, and reel six is Torch saying so
+
 ### (Gig Name)
 - **Client / Fixer**:
 - **Pay**:
