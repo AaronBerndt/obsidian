@@ -126,3 +126,5 @@ Naarva - A masked women Obyrith
 
 
 # Temple of Emotp
+
+Arishnafarnakar the 15th
