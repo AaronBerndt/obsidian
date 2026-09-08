@@ -10,7 +10,7 @@ tags: []
 ## Characters
 
 ## Scenes
--
+- The Party appears in "The Afterlife"
 
 ## Locations
 -
