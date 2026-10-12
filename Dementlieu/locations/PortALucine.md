@@ -6,6 +6,9 @@ tags: [ravenloft, dementlieu, location]
 # Port-a-Lucine
 The capital, and pretty much the whole domain. A port city on Lucine Bay that looks gorgeous and is quietly starving. [VRGtR]
 
+### The Look [Homebrew]
+Stepped towers of black marble and gold leaf, spires lit gold at night, chevron-banded facades, sunburst doorways, and huge deco clocks on every square. A jewelry box from the bay; peeling gilt up close. See [[JazzAge#The Look: Art Deco Style Guide [Homebrew]|the style guide]].
+
 ### Notable Locations [VRGtR]
 - [[DHonaireEstate|d'Honaire Estate]]: Saidra's manor and home of the weekly Masquerade
 - [[MotherOfTearsCathedral|Mother of Tears Cathedral]]: Ezra's weeping church

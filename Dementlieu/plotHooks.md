@@ -31,10 +31,10 @@ tags: [ravenloft, dementlieu, plot]
 
 ## Jazz Age Threads [Homebrew]
 See [[JazzAge]].
-- **The Lustre Trail:** A PC tries Lustre at a party. Tracing the supply leads through the speakeasies to La Cendrée and the ash-sweepers, and to the horrible truth about what it's made of.
-- **Family War:** Varrault and Pernault go to war over the Lustre trade. Each family wants the PCs as muscle, and the markers they offer could buy a Masquerade invitation.
+- **The Ash Trade:** Someone is buying the ash-sweepers' sacks of dust by the cartload. Following the buyer leads somewhere awful.
 - **The Green Lantern:** Julien Gastonne pays the party to set up a meeting with the Duchess. Their reunion could break her, or set off a slaughter.
-- **Prohibition Raid:** Baron Morisse's watch raids the Gilded Cage while the PCs are inside.
+- **The Season:** The PCs have to climb the social calendar, from the Opéra opening to the Regatta to the White Ball, to earn their way to the Masquerade. Each event is a social encounter with its own rivals and dangers.
+- **The Ruined Host:** A noble spends everything on one last spectacular party. The PCs are invited, and the host plans for no one to leave.
 - **The Watching Mask:** Someone is painting new eyes on the billboard over La Cendrée, and each new pair matches a person who gets dusted the following night.
 
 ## Themes to Hit

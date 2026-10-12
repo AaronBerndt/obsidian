@@ -33,7 +33,7 @@ Governor of Dementlieu. On paper he runs the city. In practice the Council's fiv
 [Homebrew] He's pompous and nervous, and he knows he's a puppet. He could be a secret ally if he believes the PCs can get him out from under Saidra.
 
 ### The Council of Five [VRGtR / Homebrew names]
-Five aristocrats advise the Governor, and Saidra is one of them. The book doesn't name the other four, so here are some to use. In the Jazz Age layer each one heads a crime family (see [[JazzAge#The New Capenna Layer: Five Families]]).
+Five aristocrats advise the Governor, and Saidra is one of them. The book doesn't name the other four, so here are some to use.
 - **Comte Lucien Varrault**: owns the docks and the city's only real food supply (smuggling through the Mists?). He's terrified someone will find out.
 - **Madame Ysolde Pernault**: the family Pernault Bay is named after. A gossip queen whose salon decides who gets invited to the Masquerade.
 - **Baron Thibault Morisse**: commands the city watch. A sincere believer in order who honestly thinks the disappearances are crime.
@@ -68,7 +68,7 @@ Shapeshifters (rumoured to include **giant spiders**) work the [[RedWidowTheater
 A new-money millionaire who throws parties on a barrier island and watches the green lantern at the d'Honaire Estate every night. He's the Gatsby to Saidra's Daisy, and maybe her brother reborn. See [[JazzAge#Julien Gastonne, the Man Across the Bay]].
 
 ### The Ash-Sweepers of La Cendrée [Homebrew]
-Poor folk who sweep up the dust of the Red Death's victims and sell it to the families, who turn it into **Lustre**.
+Poor folk who sweep up the dust of the Red Death's victims and sell it by the sack. Nobody asks who's buying, or what it's used for.
 
 ### Older NPCs to Bring In [Classic]
 - **Alanik Ray**: a crusading detective from a long-lived, elf-like people, with his partner **Arthur Sedgwick**. He's a nuisance to everyone in power. Good PC patron or rival investigator.

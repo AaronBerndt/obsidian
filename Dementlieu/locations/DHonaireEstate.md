@@ -6,6 +6,9 @@ tags: [ravenloft, dementlieu, location, lair]
 # d'Honaire Estate
 Saidra's lair, and the most lavishly decorated estate in Dementlieu. Leering gargoyles and lewd tapestries everywhere. **Ghoul servants** in livery wait on the guests. [VRGtR]
 
+### The Look [Homebrew]
+A stepped white-and-gold palace on the water, crowned with a glass-and-chrome sunburst that has a black circle where the sun should be. The book's leering gargoyles become blank-faced gilded angels. Inside: black marble, gold leaf, mirrored walls, and every clock stopped at midnight.
+
 ### The Weekly Masquerade [VRGtR]
 - Held every week. An invitation is the most valuable thing in the city.
 - If a guest breaks character, looks out of place, or turns out to be a fraud, Saidra destroys them.

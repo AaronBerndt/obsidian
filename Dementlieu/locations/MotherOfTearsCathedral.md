@@ -6,6 +6,9 @@ tags: [ravenloft, dementlieu, location]
 # Mother of Tears Cathedral
 A cathedral of **Ezra**. Its clergy treat every class the same, but they do nothing about the class divide. They weep over the world's horrors instead. [VRGtR]
 
+### The Look [Homebrew]
+A soaring cathedral of white stone setback towers, all silver and mirror inside. Geometric stained glass in pale blues throws cold light. The great statue of Ezra is a stylized, faceless figure with long silver tears inlaid down its cheeks, and the floor is worn smooth where people kneel.
+
 ### Notes [Homebrew]
 - It's the one place in the city where nobody has to wear a mask, so people come here to cry.
 - [Classic] Something haunts the spires and rings the bells at odd hours. Could it be the Duke's ghost, or Saidra's mother?
