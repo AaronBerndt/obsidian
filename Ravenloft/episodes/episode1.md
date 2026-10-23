@@ -22,11 +22,16 @@ tags:
 
 ## NPCs
 - Mirabelle - The Step Sister
+- O 
+- The Duke  -  The father at the docks calls himself "the Duke" but answers to a servant's name when he's drunk enough.
+- The Mother - Lives as a woman living homeless in the streets
+
 
 ## Secrets and Clues
-- A serial killer called the 
 - The Duhess's family still lives in the city but they've each taken on a another name to avoid. 
-- The Mayor has access to the archives of the city that could expose many. 
+- The Mayor has access to the archives of the city that could expose many.
+- The Red death who is the "Duchess" is a creature that stalks the streets, trying to kill those who are her family. But overtime her family is bluring in her memories. 
+- 
 
 ## Encounters
 -

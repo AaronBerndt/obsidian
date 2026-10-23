@@ -32,7 +32,6 @@ tags: [ravenloft, dementlieu, plot]
 ## Jazz Age Threads [Homebrew]
 See [[JazzAge]].
 - **The Ash Trade:** Someone is buying the ash-sweepers' sacks of dust by the cartload. Following the buyer leads somewhere awful.
-- **The Green Lantern:** Julien Gastonne pays the party to set up a meeting with the Duchess. Their reunion could break her, or set off a slaughter.
 - **The Season:** The PCs have to climb the social calendar, from the Opéra opening to the Regatta to the White Ball, to earn their way to the Masquerade. Each event is a social encounter with its own rivals and dangers.
 - **The Ruined Host:** A noble spends everything on one last spectacular party. The PCs are invited, and the host plans for no one to leave.
 - **The Watching Mask:** Someone is painting new eyes on the billboard over La Cendrée, and each new pair matches a person who gets dusted the following night.

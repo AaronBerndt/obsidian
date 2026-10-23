@@ -65,9 +65,6 @@ Green hags at the edge of the city. They help poor folk "rise" into high society
 Shapeshifters (rumoured to include **giant spiders**) work the [[RedWidowTheater|Red Widow Theater]] and lure patrons away.
 - [Homebrew] **Madame Arachne Vey**: the cabaret's owner and star. Possibly a phase spider or a drider in disguise. She knows everyone's secrets.
 
-### Julien Gastonne [Homebrew]
-A new-money millionaire who throws parties on a barrier island and watches the green lantern at the d'Honaire Estate every night. He's the Gatsby to Saidra's Daisy, and maybe her brother reborn. See [[JazzAge#Julien Gastonne, the Man Across the Bay]].
-
 ### The Ash-Sweepers of La Cendrée [Homebrew]
 Poor folk who sweep up the dust of the Red Death's victims and sell it by the sack. Nobody asks who's buying, or what it's used for.
 

@@ -98,7 +98,6 @@ Saidra **is** Gatsby. She invented herself, she throws parties to be seen, and s
 | Gatsby's parties | The weekly Masquerade. Everyone comes, and nobody knows the host. |
 | Gatsby reinventing himself | Saidra the farm girl became "Duchess d'Honaire" |
 | Old money vs. new money | The Council's "old" families sneer at climbers, and they're all frauds too |
-| The green light on Daisy's dock | **A green lantern** across the bay (see Julien Gastonne below) |
 | The Valley of Ashes | **La Cendrée**: ash flats between the city and [[Chateaufaux]] |
 | Eyes of Dr. T.J. Eckleburg | **The Watching Mask**: a giant faded advertisement over La Cendrée |
 | "Rich girls don't marry poor boys" | Saidra's whole tragedy |
@@ -108,12 +107,6 @@ Saidra **is** Gatsby. She invented herself, she throws parties to be seen, and s
 - A grey wasteland at the city's edge where the **dust of the Red Death's victims** blows and settles. The poor live here.
 - Ash-sweepers collect the dust. They sell it by the sack, and nobody asks who's buying.
 - **The Watching Mask:** an enormous painted billboard of a deco mask with hollow eyes, advertising a perfume company that went under decades ago. Locals swear the eyes move. Maybe the Dark Powers really are watching.
-
-### Julien Gastonne, the Man Across the Bay [Homebrew NPC]
-- A new-money millionaire who throws the second-best parties in town on his barrier-island mansion. Nobody knows where his money comes from, and he never talks about his past.
-- Every night he stands on his dock looking at the d'Honaire Estate, where **a green lantern** burns.
-- He's in love with Saidra, or with the girl she was. He may be the brother/Duke's soul given a new face, or just a man who came out of the Mists remembering a dance.
-- He wants the PCs to arrange a "chance" meeting. It ends in tragedy either way: she can't let him see her, and he can't stop looking.
 
 ## Art Deco Landmarks [Homebrew]
 Deco versions of the book's locations:
@@ -145,7 +138,6 @@ A calendar of events the party can scheme to get into:
 - **The Opening Night at the Opéra Lucine:** the season's first big gathering. Box seats are bought, borrowed, or fought over.
 - **The Regatta:** gilded gondolas race down the Grand Canal, followed by a garden party on the barrier islands.
 - **The White Ball:** everyone wears white, and the first spot of a stain, wine or blood, is a scandal.
-- **Julien Gastonne's Fridays:** the open house across the bay. Anyone can come, which is exactly why the old guard won't be seen there and secretly envies everyone who goes.
 - **The Masquerade:** every week at the [[DHonaireEstate|d'Honaire Estate]]. The summit everyone is climbing toward.
 
 ### Where the Glittering Set Goes [Homebrew]
@@ -166,5 +158,4 @@ A calendar of events the party can scheme to get into:
 - **"Bare-faced"**: unmasked; a terrible insult.
 - **"Taking the long walk"**: heading for Chateaufaux, a euphemism for suicide or madness.
 - **"Midnight money"**: cash that disappears when the illusion breaks.
-- **"Going green"**: pining for something you can't have (from Julien's lantern).
 - **"The bee's knees," "the cat's pajamas," "applesauce!"**: the classics, used a little too eagerly.
