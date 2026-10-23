@@ -2,7 +2,9 @@
 id: ravenloft_episode1
 aliases:
   - episode1
-tags: [ravenloft, dementlieu]
+tags:
+  - ravenloft
+  - dementlieu
 ---
 
 # Episode 1: 
@@ -10,16 +12,8 @@ tags: [ravenloft, dementlieu]
 ## Strong Start
 -
 
-## Masks
--
-
-## The Season
-- **Invitation progress**:
-- **This session's event**:
-- **The MacGuffin**:
-
 ## Scenes
--
+- Start the session off with a fail attempt of one of the players on trying to out the Duchess, start with one of that that players group getting dusted.
 
 ## Locations
 -
@@ -32,13 +26,6 @@ tags: [ravenloft, dementlieu]
 
 ## Encounters
 -
-
-## Midnight
--
-
-## Appearances
-- **Who's suspicious**:
-- **Red Death's attention**:
 
 ## Rewards & Favors
 -
