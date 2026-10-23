@@ -22,7 +22,7 @@ tags:
 
 ## NPCs
 - Mirabelle - The Step Sister
-- O 
+- Anastasia - The other step sister who is living has a nun in the church
 - The Duke  -  The father at the docks calls himself "the Duke" but answers to a servant's name when he's drunk enough.
 - The Mother - Lives as a woman living homeless in the streets
 
