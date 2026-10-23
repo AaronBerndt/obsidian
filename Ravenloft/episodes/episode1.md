@@ -13,10 +13,11 @@ tags:
 -
 
 ## Scenes
-- Start the session off with a fail attempt of one of the players on trying to out the Duchess, start with one of that that players group getting dusted.
+- Start the session off with a failed attempt of one of the players on trying to out the Duchess, start with one of that that players group getting dusted, and maybe that player trying to escape.
+
 
 ## Locations
--
+- The Sewers
 
 ## NPCs
 -
