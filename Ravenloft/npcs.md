@@ -59,6 +59,7 @@ The priests of Ezra at the [[MotherOfTearsCathedral|cathedral]] weep constantly 
 ### The Coven of Three Odd Gables [VRGtR]
 Green hags at the edge of the city. They help poor folk "rise" into high society, and every deal has a cruel catch.
 - [Homebrew] Names: **Mère Brune, Tante Grise, and Little Lisette**. They'll offer the PCs Masquerade invitations at a price.
+- [Homebrew] **Madame Scarlet** is a persona one of the hags shifts into, not a separate hag. She's the creator of the PC [[GilroyGordon|Gilroy Gordon]].
 
 ### The Red Widow's Performers [VRGtR]
 Shapeshifters (rumoured to include **giant spiders**) work the [[RedWidowTheater|Red Widow Theater]] and lure patrons away.
