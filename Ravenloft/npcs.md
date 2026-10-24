@@ -1,13 +1,16 @@
 ---
 id: npcs
 aliases: []
-tags: [ravenloft, dementlieu, npcs]
+tags:
+  - ravenloft
+  - dementlieu
+  - npcs
 ---
 > **[VRGtR]** from the 5e book · **[Classic]** older lore · **[Homebrew]** my additions
 
 # The Darklord
 
-### Saidra d'Honaire [VRGtR]
+### Saidra De'Honaire [VRGtR]
 Duchess of Dementlieu. A **wraith** who uses makeup, gowns, and illusion to pass as a living noblewoman. At night she becomes **the Red Death**, a murderous spirit with a red glow that unmasks and disintegrates pretenders.
 
 **Backstory (dark Cinderella):**
@@ -29,8 +32,7 @@ Duchess of Dementlieu. A **wraith** who uses makeup, gowns, and illusion to pass
 # The Government
 
 ### Marcel Guignol [VRGtR]
-Governor of Dementlieu. On paper he runs the city. In practice the Council's five advisors, and Saidra above all, pull his strings. *Guignol* is French for a puppet show.
-[Homebrew] He's pompous and nervous, and he knows he's a puppet. He could be a secret ally if he believes the PCs can get him out from under Saidra.
+Mayor of Dementlieu. On paper he runs the city. In practice the Council's five advisors, and Saidra above all, pull his strings. *Guignol* is French for a puppet show.
 
 ### The Council of Five [VRGtR / Homebrew names]
 Five aristocrats advise the Governor, and Saidra is one of them. The book doesn't name the other four, so here are some to use.
@@ -44,7 +46,9 @@ Five aristocrats advise the Governor, and Saidra is one of them. The book doesn'
 ### The Ghoul Staff [VRGtR]
 The [[DHonaireEstate|d'Honaire Estate]] is staffed by **ghouls** in livery, dressed for the occasion. Guests pretend not to notice.
 
-### Saidra's Family [VRGtR, unnamed]
+### House De'Honaire
+Crest: Sun 
+
 Her father, stepmother, and two stepsisters are all part of her past. [Homebrew] Did the Dark Powers bring them into the domain as torments or tools? Ideas:
 - **The stepsisters, Ondine & Mirabelle**: two veiled ladies at every ball who never take off their masks. Under the masks are faces Saidra disfigured.
 - **The father**: an old drunk at the docks who mutters about being a duke. Saidra can't bring herself to kill him.
@@ -52,25 +56,20 @@ Her father, stepmother, and two stepsisters are all part of her past. [Homebrew]
 
 # The City
 
+### The Social Elite
+
+- Lady Violet Tanser'vel - A noble who likes after parties 
+
 ### Clergy of the Mother of Tears [VRGtR]
 The priests of Ezra at the [[MotherOfTearsCathedral|cathedral]] weep constantly and offer comfort but nothing else.
-- [Homebrew] **Sister Amélie Doucet**: a young priestess who is finally sick of weeping and wants to *do* something. A good first ally.
 
 ### The Coven of Three Odd Gables [VRGtR]
 Green hags at the edge of the city. They help poor folk "rise" into high society, and every deal has a cruel catch.
-- [Homebrew] Names: **Mère Brune, Tante Grise, and Little Lisette**. They'll offer the PCs Masquerade invitations at a price.
-- [Homebrew] **Madame Scarlet** is a persona one of the hags shifts into, not a separate hag. She's the creator of the PC [[GilroyGordon|Gilroy Gordon]].
 
 ### The Red Widow's Performers [VRGtR]
 Shapeshifters (rumoured to include **giant spiders**) work the [[RedWidowTheater|Red Widow Theater]] and lure patrons away.
-- [Homebrew] **Madame Arachne Vey**: the cabaret's owner and star. Possibly a phase spider or a drider in disguise. She knows everyone's secrets.
 
-### The Ash-Sweepers of La Cendrée [Homebrew]
-Poor folk who sweep up the dust of the Red Death's victims and sell it by the sack. Nobody asks who's buying, or what it's used for.
+### The Ash-men of La Cendrée [Homebrew]
+Undead who sweep up the dust of the Red Death's and Duchess' victims 
 
-### Older NPCs to Bring In [Classic]
-- **Alanik Ray**: a crusading detective from a long-lived, elf-like people, with his partner **Arthur Sedgwick**. He's a nuisance to everyone in power. Good PC patron or rival investigator.
-- **Dominic d'Honaire**: the old charming, mind-controlling darklord. He could be Saidra's "predecessor," a portrait in the estate, or a ghost who wants his domain back.
-- **The Brain**: a criminal mastermind and telepath who manipulates memories.
-- **The Phantom**: a theatrical criminal who haunts the quayside theaters and seduces young stars.
-- **Unexplained figures**: something that rings the cathedral bells at odd hours, something swimming in the canals, and someone who sings to the sea from the wharfs on moonless nights.
+
