@@ -41,6 +41,8 @@ Five aristocrats advise the Governor, and Saidra is one of them. The book doesn'
 - **Baron Thibault Morisse**: commands the city watch. A sincere believer in order who honestly thinks the disappearances are crime.
 - **Vicomtesse Céleste Arnaud**: secretly broke. She's selling family heirlooms to the [[ThreeOddGables|hags]] to stay in the game.
 
+
+
 # The Estate & Servants
 
 ### The Ghoul Staff [VRGtR]
@@ -49,10 +51,10 @@ The [[DHonaireEstate|d'Honaire Estate]] is staffed by **ghouls** in livery, dres
 ### House De'Honaire
 Crest: Sun 
 
-Her father, stepmother, and two stepsisters are all part of her past. [Homebrew] Did the Dark Powers bring them into the domain as torments or tools? Ideas:
-- **The stepsisters, Ondine & Mirabelle**: two veiled ladies at every ball who never take off their masks. Under the masks are faces Saidra disfigured.
-- **The father**: an old drunk at the docks who mutters about being a duke. Saidra can't bring herself to kill him.
-- **The Duke/brother**: his ghost or revenant wanders the estate's halls, still wearing his coronation mask.
+- Mirabelle - The Step Sister, she goes by the name Starlight and works as a dancer at The Red Widow
+- Anastasia - The other step sister who is living has a nun in the church
+- The Duke  -  The father at the docks calls himself "the Duke" but answers to a servant's name when he's drunk enough.
+- The Mother - Lives as a woman living homeless in the streets
 
 # The City
 
