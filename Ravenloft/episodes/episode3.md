@@ -26,6 +26,11 @@ The players will need to find a way to get protection in the Mists
 - A Dark gift from the Dark Beings
 - The Vistani, getting access to talismen of the Mists
 
+The Family Members
+- Anastasia - nun in the Church of Ezra
+- The Mother now just spends her time in the streets, she's the leader of The Vermin
+- The Duke
+
 ## Locations
 - 
 
