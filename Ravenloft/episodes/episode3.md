@@ -18,7 +18,6 @@ tags:
 - The players meet with Starlight and talk about the conspiracy
     - They need to get access to and find the Archives
     - They need to find the other Del'Honaire family members 
-    - 
 
 ## Locations
 - 
@@ -30,10 +29,10 @@ tags:
 
 ## Secrets and Clues - The parties meet 
 - Those killed by are "Red Death" are forgotten like a "False Hydra", the duchess is trying to kill her family but she's forgotten what their faces look like at this point. 
-- The Mayor has access to the archives of the city that could expose many, it guarded by "Guards" made 
+- The Mayor has access to the archives of the city that could expose many, it guarded by "Guards" made "Ghouls"
 - Viktra Modernhelm is trying to find the Golden Heart which has been able to travel the mists
 - The Mayor is a member of the "Amber Order" a cult who works for the Dark Powers, and purposely keep the Domains running to power them. 
-- 
+- The Church of Ezra 
 
 ## Encounters
 -
