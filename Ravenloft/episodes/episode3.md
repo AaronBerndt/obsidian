@@ -9,28 +9,31 @@ tags:
 
 # Episode 1: 
 
-## Strong Start
--
+## Last Time
+- The players all met at Gala and afterwords were attacked and escaped "The Red Death"
 
 ## Scenes
-- Start out with talks to bring the 
+- Start out with "Gordon" reporting the attack but he forgot who was killed, just the number and gender. 
+- Start with a bunch event with Mimosas and about the conversation about the night before 
+- The players meet with Starlight and talk about the conspiracy
+    - They need to get access to and find the Archives
+    - They need to find the other Del'Honaire family members 
     - 
-
-- 
 
 ## Locations
 - 
 
 ## NPCs
-- Mirabelle - The Step Sister "Starlight"
-- Anastasia - The other step sister who is living has a nun in the church
-- The Duke  -  The father at the docks calls himself "the Duke" but answers to a servant's name when he's drunk enough.
-- The Mother - Lives as a woman living homeless in the streets
+- The Brain - An Expert in "Red Death" whoses been trying to figure it out for a long time
+- Dasy - The Mayors sectury  that he's been having an affair on
 
 
-## Secrets and Clues
-- The Mayor has access to the archives of the city that could expose many.
-- The Red death who is the "Duchess" is a creature that stalks the streets, trying to kill those who are her family. But overtime her family is bluring in her memories. 
+## Secrets and Clues - The parties meet 
+- Those killed by are "Red Death" are forgotten like a "False Hydra", the duchess is trying to kill her family but she's forgotten what their faces look like at this point. 
+- The Mayor has access to the archives of the city that could expose many, it guarded by "Guards" made 
+- Viktra Modernhelm is trying to find the Golden Heart which has been able to travel the mists
+- The Mayor is a member of the "Amber Order" a cult who works for the Dark Powers, and purposely keep the Domains running to power them. 
+- 
 
 ## Encounters
 -
