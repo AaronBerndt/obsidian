@@ -7,7 +7,7 @@ tags:
   - dementlieu
 ---
 
-# Episode 1: 
+# Episode 3: 
 
 ## Last Time
 - The players all met at Gala and afterwords were attacked and escaped "The Red Death"
@@ -37,6 +37,11 @@ The Family Members
 ## NPCs
 - The Brain - An Expert in "Red Death" whoses been trying to figure it out for a long time
 - Dasy - The Mayors sectury  that he's been having an affair on
+- Steven - Dogman booker
+
+- Grace Goldbrand - Daughter Lt. 
+- Will  - Noble Son 
+- Ezmerelda - Vistani
 
 
 ## Secrets and Clues - The parties meet 
@@ -46,10 +51,12 @@ The Family Members
 - Viktra Modernhelm is trying to find the Golden Heart which has been able to travel the mists
 - The Mayor is a member of the "Amber Order" a cult who works for the Dark Powers, and purposely keep the Domains running to power them. 
 - The Church of Ezra is one of the few places that the "Duchess" can't access because of the "Protection of Ezra".
--
 
 ## Encounters
 -
 
 ## Rewards & Favors
 -
+
+
+
